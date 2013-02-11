@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="<%= xliff.file[0].$["source-language"] %>" target-language="<%= xliff.file[0].$["target-language"] %>" 
+    datatype="plaintext" original="<%= xliff.file[0].$["original"] %>" date="2012-03-05T14:54:29Z" 
+    product-name="<%= xliff.file[0].$["product-name"] %>">
+  <header/>
+    <body><% _.each(xliff.file[0].body[0]["trans-unit"],function(unit){ %>
+          <trans-unit id="<%= unit.$["id"] %>">
+            <source><%= unit.source[0] %></source>
+            <target><%= unit.target[0] %></target>
+          </trans-unit>
+    <% }); %></body>
+  </file>
+</xliff>

@@ -1,0 +1,15 @@
+{
+	"name": "xliff2json",
+	"version": "0.0.1",
+	"dependencies": {
+		"xml2js": "*",
+		"underscore": "*"
+	},
+	"scripts":{
+		"test": "mocha"
+	},
+	"devDependencies":{
+		"mocha": "*",
+		"assert": "*"
+	}
+}
