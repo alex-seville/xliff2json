@@ -1,10 +1,11 @@
 {
 	"name": "xliff2json",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"dependencies": {
 		"xml2js": "*",
 		"underscore": "*"
 	},
+	"main": "lib/index.js",
 	"scripts":{
 		"test": "mocha"
 	},

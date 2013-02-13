@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2012-03-05T14:54:29Z" product-name="messages">
+    <header/>
+    <body>
+      <trans-unit id="1">
+        <source>Where to buy</source>
+        <target>Points de vente</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Search</source>
+        <target>Recherche</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>search</source>
+        <target>rechercher</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>Collections</source>
+        <target>Collections</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>About</source>
+        <target>À Propos</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>About Us</source>
+        <target>À Propos</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>Articles</source>
+        <target>Actualités</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Stories &amp;amp; News</source>
+        <target>Récits &amp;amp; nouvelles</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Service</source>
+        <target>Service</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Service &amp;amp; Support</source>
+        <target>Service &amp;amp; Support</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>Where to Buy</source>
+        <target>Points de vente</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>More</source>
+        <target>Également</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>Terms of use</source>
+        <target>Conditions d'utilisation</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>2012 Audemars Piguet, Le Brassus since 1875.</source>
+        <target>2012 Audemars Piguet, Le Brassus depuis 1875.</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>Online Catalog</source>
+        <target>Catalogue en ligne</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>Send Me a Catalog</source>
+        <target>Recevoir un catalogue</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>Drag</source>
+        <target>Glissez</target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>Explore More Audemars Piguet</source>
+        <target>Découvrez l'univers Audemars Piguet</target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>Watch Family Admin</source>
+        <target>Administration des familles de montres</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>ID</source>
+        <target>Identifiant</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>Family Name</source>
+        <target>Nom de famille</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>Categories Admin</source>
+        <target>Administration des catégories</target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>Edit Category</source>
+        <target>Editer une catégorie</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>New Category</source>
+        <target>Nouvelle catégorie</target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>Active Users</source>
+        <target>Utilisateurs actifs</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>Category</source>
+        <target>Catégorie</target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source>Media Items</source>
+        <target>Eléments média</target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source>Watch Collection Admin</source>
+        <target>Administration des Collections</target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>Our Collections</source>
+        <target>Nos Collections</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

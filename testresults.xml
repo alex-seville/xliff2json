@@ -1,1668 +1,1656 @@
-<?xml version="1.0" encoding="UTF-8"?>
+
+  .<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
 <xliff version="1.0">
   <file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2012-03-05T14:54:29Z" product-name="messages">
-    <header/>
+  <header/>
     <body>
-      <trans-unit id="2">
+      <trans-unit id="1">
         <source>Where to buy</source>
         <target>Points de vente</target>
       </trans-unit>
-      <trans-unit id="3">
+      <trans-unit id="2">
         <source>Search</source>
         <target>Recherche</target>
       </trans-unit>
-      <trans-unit id="4">
+      <trans-unit id="3">
         <source>search</source>
         <target>rechercher</target>
       </trans-unit>
-      <trans-unit id="5">
+      <trans-unit id="4">
         <source>Collections</source>
         <target>Collections</target>
       </trans-unit>
-      <trans-unit id="6">
+      <trans-unit id="5">
         <source>About</source>
         <target>À Propos</target>
       </trans-unit>
-      <trans-unit id="7">
+      <trans-unit id="6">
         <source>About Us</source>
         <target>À Propos</target>
       </trans-unit>
-      <trans-unit id="8">
+      <trans-unit id="7">
         <source>Articles</source>
         <target>Actualités</target>
       </trans-unit>
-      <trans-unit id="9">
+      <trans-unit id="8">
         <source>Stories &amp;amp; News</source>
         <target>Récits &amp;amp; nouvelles</target>
       </trans-unit>
-      <trans-unit id="10">
+      <trans-unit id="9">
         <source>Service</source>
         <target>Service</target>
       </trans-unit>
-      <trans-unit id="11">
+      <trans-unit id="10">
         <source>Service &amp;amp; Support</source>
         <target>Service &amp;amp; Support</target>
       </trans-unit>
-      <trans-unit id="12">
+      <trans-unit id="11">
         <source>Where to Buy</source>
         <target>Points de vente</target>
       </trans-unit>
-      <trans-unit id="13">
+      <trans-unit id="12">
         <source>More</source>
         <target>Également</target>
       </trans-unit>
-      <trans-unit id="20">
+      <trans-unit id="13">
         <source>Terms of use</source>
         <target>Conditions d'utilisation</target>
       </trans-unit>
-      <trans-unit id="21">
+      <trans-unit id="14">
         <source>2012 Audemars Piguet, Le Brassus since 1875.</source>
         <target>2012 Audemars Piguet, Le Brassus depuis 1875.</target>
       </trans-unit>
-      <trans-unit id="22">
+      <trans-unit id="15">
         <source>Online Catalog</source>
         <target>Catalogue en ligne</target>
       </trans-unit>
-      <trans-unit id="23">
+      <trans-unit id="16">
         <source>Send Me a Catalog</source>
         <target>Recevoir un catalogue</target>
       </trans-unit>
-      <trans-unit id="24">
+      <trans-unit id="17">
         <source>Drag</source>
         <target>Glissez</target>
       </trans-unit>
-      <trans-unit id="25">
-        <source>Explore More Audemars Piguet</source>
-        <target>Découvrez l'univers Audemars Piguet</target>
-      </trans-unit>
-      <trans-unit id="29">
-        <source>Watch Family Admin</source>
-        <target>Administration des familles de montres</target>
-      </trans-unit>
-      <trans-unit id="30">
-        <source>ID</source>
-        <target>Identifiant</target>
-      </trans-unit>
-      <trans-unit id="31">
-        <source>Family Name</source>
-        <target>Nom de famille</target>
-      </trans-unit>
-      <trans-unit id="32">
-        <source>Categories Admin</source>
-        <target>Administration des catégories</target>
-      </trans-unit>
-      <trans-unit id="33">
-        <source>Edit Category</source>
-        <target>Editer une catégorie</target>
-      </trans-unit>
-      <trans-unit id="34">
-        <source>New Category</source>
-        <target>Nouvelle catégorie</target>
-      </trans-unit>
-      <trans-unit id="35">
-        <source>Active Users</source>
-        <target>Utilisateurs actifs</target>
-      </trans-unit>
-      <trans-unit id="36">
-        <source>Category</source>
-        <target>Catégorie</target>
-      </trans-unit>
-      <trans-unit id="37">
-        <source>Media Items</source>
-        <target>Eléments média</target>
-      </trans-unit>
-      <trans-unit id="38">
-        <source>Watch Collection Admin</source>
-        <target>Administration des Collections</target>
-      </trans-unit>
-      <trans-unit id="39">
-        <source>Our Collections</source>
-        <target>Nos Collections</target>
-      </trans-unit>
-      <trans-unit id="40">
-        <source>View model</source>
-        <target>Voir le modèle</target>
-      </trans-unit>
-      <trans-unit id="41">
-        <source>2013 Novelties</source>
-        <target>Nouveautés 2013</target>
-      </trans-unit>
-      <trans-unit id="42">
-        <source>Ladies</source>
-        <target>Collection Dames</target>
-      </trans-unit>
-      <trans-unit id="44">
-        <source>Novelties</source>
-        <target>Royal Oak 40 years</target>
-      </trans-unit>
-      <trans-unit id="45">
-        <source>2013&lt;br/&gt; Novelties</source>
-        <target>Nouveautés &lt;br/&gt; 2013</target>
-      </trans-unit>
-      <trans-unit id="49">
-        <source>Edit</source>
-        <target>Editez</target>
-      </trans-unit>
-      <trans-unit id="50">
-        <source>Latest Articles</source>
-        <target>Derniers récits</target>
-      </trans-unit>
-      <trans-unit id="51">
-        <source>Read More</source>
-        <target>Lire</target>
-      </trans-unit>
-      <trans-unit id="52">
-        <source>Latest News</source>
-        <target>Nouvelles récentes</target>
-      </trans-unit>
-      <trans-unit id="53">
-        <source>All News</source>
-        <target>Toutes les nouvelles</target>
-      </trans-unit>
-      <trans-unit id="54">
-        <source>News</source>
-        <target>Nouvelles</target>
-      </trans-unit>
-      <trans-unit id="57">
-        <source>Collection Name</source>
-        <target>Nom des collections</target>
-      </trans-unit>
-      <trans-unit id="58">
-        <source>Homepage Marquee Slot</source>
-        <target>Emplacement du chapeau de la page d'accueil</target>
-      </trans-unit>
-      <trans-unit id="59">
-        <source>Marquee Image</source>
-        <target>Image chapeau</target>
-      </trans-unit>
-      <trans-unit id="60">
-        <source>Brightcove Video Preview Image</source>
-        <target>Image de prévisualisation vidéo Brightcove</target>
-      </trans-unit>
-      <trans-unit id="62">
-        <source>Create Home page Marquee Block</source>
-        <target>Créer le bloc chapeau de la page d'accueil</target>
-      </trans-unit>
-      <trans-unit id="63">
-        <source>Choose Marquee Image</source>
-        <target>Choisir l'image Chapeau</target>
-      </trans-unit>
-      <trans-unit id="64">
-        <source>Select an Image</source>
-        <target>Sélectionner une image</target>
-      </trans-unit>
-      <trans-unit id="65">
-        <source>Choose Video Preview Image</source>
-        <target>Choisir l'image de prévisualisation de la vidéo</target>
-      </trans-unit>
-      <trans-unit id="66">
-        <source>Permissions: Hidden Photos can be used in photo slots, but are not displayed in the Media section.</source>
-        <target>Permissions: Les photos cachées peuvent être insérées dans leurs emplacements respectifs, mais ne seront pas diffusées dans la section média.</target>
-      </trans-unit>
-      <trans-unit id="67">
-        <source>Replace Thumbnail</source>
-        <target>Remplacer les miniatures</target>
-      </trans-unit>
-      <trans-unit id="68">
-        <source>Replace File</source>
-        <target>Remplacer le fichier</target>
-      </trans-unit>
-      <trans-unit id="69">
-        <source>Delete File</source>
-        <target>Supprimer le fichier</target>
-      </trans-unit>
-      <trans-unit id="70">
-        <source>%buttonspan%Download Original</source>
-        <target>%buttonspan%Téléchargez l'original</target>
-      </trans-unit>
-      <trans-unit id="71">
-        <source>Cancel</source>
-        <target>Annuler</target>
-      </trans-unit>
-      <trans-unit id="72">
-        <source>Save Media</source>
-        <target>Sauvegarder le média</target>
-      </trans-unit>
-      <trans-unit id="73">
-        <source>Save</source>
-        <target>Sauvegarder</target>
-      </trans-unit>
-      <trans-unit id="74">
-        <source>Delete</source>
-        <target>Supprimer</target>
-      </trans-unit>
-      <trans-unit id="75">
-        <source>Are you sure you want to delete this item?</source>
-        <target>Êtes-vous sûr de vouloir supprimer cet élément?</target>
-      </trans-unit>
-      <trans-unit id="76">
-        <source>This file will be replaced after you click save.</source>
-        <target>Ce fichier sera remplacé après avoir cliqué sur sauvegarder.</target>
-      </trans-unit>
-      <trans-unit id="78">
-        <source>, </source>
-        <target/>
-      </trans-unit>
-      <trans-unit id="79">
-        <source>About The Collection</source>
-        <target>À propos de la collection</target>
-      </trans-unit>
-      <trans-unit id="80">
-        <source>Mens Collection</source>
-        <target>Collection Hommes</target>
-      </trans-unit>
-      <trans-unit id="83">
-        <source>Ladies Collection</source>
-        <target>Collection Dames</target>
-      </trans-unit>
-      <trans-unit id="84">
-        <source>See All Ladies watches</source>
-        <target>Voir l'ensemble des collections Dames</target>
-      </trans-unit>
-      <trans-unit id="85">
-        <source>Iconic Moments</source>
-        <target>Instants Légendaires</target>
-      </trans-unit>
-      <trans-unit id="86">
-        <source>Download Image</source>
-        <target>Téléchargez l'image</target>
-      </trans-unit>
-      <trans-unit id="87">
-        <source>Close</source>
-        <target>Fermer</target>
-      </trans-unit>
-      <trans-unit id="88">
-        <source>Also in Ladies</source>
-        <target>Également dans la collection Dames</target>
-      </trans-unit>
-      <trans-unit id="89">
-        <source>Magnify</source>
-        <target>Agrandir</target>
-      </trans-unit>
-      <trans-unit id="90">
-        <source>Expert Service</source>
-        <target>Nos experts à votre service</target>
-      </trans-unit>
-      <trans-unit id="91">
-        <source>See it in person</source>
-        <target>Visite d'une Boutique</target>
-      </trans-unit>
-      <trans-unit id="93">
-        <source>Novelty</source>
-        <target>Nouveauté</target>
-      </trans-unit>
-      <trans-unit id="94">
-        <source>Latest Creation</source>
-        <target>Nos dernières créations</target>
-      </trans-unit>
-      <trans-unit id="98">
-        <source>See all models</source>
-        <target>Voir tous les modèles</target>
-      </trans-unit>
-      <trans-unit id="100">
-        <source>Details</source>
-        <target>Détails</target>
-      </trans-unit>
-      <trans-unit id="101">
-        <source>Case</source>
-        <target>Boîte</target>
-      </trans-unit>
-      <trans-unit id="102">
-        <source>Dial</source>
-        <target>Cadran</target>
-      </trans-unit>
-      <trans-unit id="103">
-        <source>Bracelet</source>
-        <target>Bracelet</target>
-      </trans-unit>
-      <trans-unit id="104">
-        <source>Jewels</source>
-        <target>Rubis</target>
-      </trans-unit>
-      <trans-unit id="105">
-        <source>Reference</source>
-        <target>Référence</target>
-      </trans-unit>
-      <trans-unit id="109">
-        <source>Type of balance</source>
-        <target>Type de balancier</target>
-      </trans-unit>
-      <trans-unit id="112">
-        <source>Type of balance-spring stud-holder</source>
-        <target>Type de porte-piton</target>
-      </trans-unit>
-      <trans-unit id="114">
-        <source>Balance-stop device</source>
-        <target>Stop balancier</target>
-      </trans-unit>
-      <trans-unit id="115">
-        <source>Direction of automatic winding</source>
-        <target>Sens de remontage de l'automatique</target>
-      </trans-unit>
-      <trans-unit id="116">
-        <source>Type of oscillating weight</source>
-        <target>Type de masse</target>
-      </trans-unit>
-      <trans-unit id="117">
-        <source>Power reserve</source>
-        <target>Réserve de marche</target>
-      </trans-unit>
-      <trans-unit id="118">
-        <source>Shock-absorbing system</source>
-        <target>Système anti-chocs</target>
-      </trans-unit>
-      <trans-unit id="119">
-        <source>Angle of lift</source>
-        <target>Angle de levée</target>
-      </trans-unit>
-      <trans-unit id="120">
-        <source>Number of parts</source>
-        <target>Nombre de composants</target>
-      </trans-unit>
-      <trans-unit id="121">
-        <source>Water Resistance</source>
-        <target>Étanchéité</target>
-      </trans-unit>
-      <trans-unit id="122">
-        <source>None</source>
-        <target>Aucun</target>
-      </trans-unit>
-      <trans-unit id="123">
-        <source>Selfwinding</source>
-        <target>Remontage automatique</target>
-      </trans-unit>
-      <trans-unit id="124">
-        <source>Calibre</source>
-        <target>Calibre</target>
-      </trans-unit>
-      <trans-unit id="125">
-        <source>Front</source>
-        <target>Face</target>
-      </trans-unit>
-      <trans-unit id="126">
-        <source>Back</source>
-        <target>Dos</target>
-      </trans-unit>
-      <trans-unit id="127">
-        <source>View Model</source>
-        <target>Voir le modèle</target>
-      </trans-unit>
-      <trans-unit id="128">
-        <source>Click For Next Image</source>
-        <target>Cliquez pour voir l'image suivante</target>
-      </trans-unit>
-      <trans-unit id="129">
-        <source>Watch Collection Slot</source>
-        <target>Emplacement de la collection</target>
-      </trans-unit>
-      <trans-unit id="130">
-        <source>Background Image</source>
-        <target>Image d'arrère plan</target>
-      </trans-unit>
-      <trans-unit id="131">
-        <source>Choose Background Image</source>
-        <target>Choisir une image d'arrière plan</target>
-      </trans-unit>
-      <trans-unit id="132">
-        <source>%num% watches</source>
-        <target>%num% montres</target>
-      </trans-unit>
-      <trans-unit id="133">
-        <source>Create a Watch Collection</source>
-        <target>Créer une collection</target>
-      </trans-unit>
-      <trans-unit id="134">
-        <source>Sign In</source>
-        <target>Connexion</target>
-      </trans-unit>
-      <trans-unit id="135">
-        <source>Forgot your password?</source>
-        <target>Mot de passe oublié?</target>
-      </trans-unit>
-      <trans-unit id="136">
-        <source>Want to register?</source>
-        <target>Vous inscrire?</target>
-      </trans-unit>
-      <trans-unit id="137">
-        <source>Craft</source>
-        <target>Héritage</target>
-      </trans-unit>
-      <trans-unit id="138">
-        <source>Also read</source>
-        <target>Lire également</target>
-      </trans-unit>
-      <trans-unit id="139">
-        <source>Watch Model Admin</source>
-        <target>Administration des modèles</target>
-      </trans-unit>
-      <trans-unit id="140">
-        <source>Model Name</source>
-        <target>Nom du modèle</target>
-      </trans-unit>
-      <trans-unit id="141">
-        <source>Recent Stories</source>
-        <target>Derniers récits</target>
-      </trans-unit>
-      <trans-unit id="142">
-        <source>New Creations</source>
-        <target>Dernières créations</target>
-      </trans-unit>
-      <trans-unit id="147">
-        <source>Manuals</source>
-        <target>Manuels et Numéros d’Enregistrement</target>
-      </trans-unit>
-      <trans-unit id="148">
-        <source>Maintenance &amp;amp; Repair</source>
-        <target>Entretien et réparations</target>
-      </trans-unit>
-      <trans-unit id="149">
-        <source>Warranties</source>
-        <target>Garanties</target>
-      </trans-unit>
-      <trans-unit id="150">
-        <source>FAQ's</source>
-        <target>Questions courantes</target>
-      </trans-unit>
-      <trans-unit id="152">
-        <source>Don't have an account?</source>
-        <target>Vous n'avez pas encore de compte utilisateur?</target>
-      </trans-unit>
-      <trans-unit id="153">
-        <source>Create one</source>
-        <target>Créer un compte utilisateur</target>
-      </trans-unit>
-      <trans-unit id="154">
-        <source>Title</source>
-        <target>Titre</target>
-      </trans-unit>
-      <trans-unit id="155">
-        <source>Page Type</source>
-        <target>Type de page</target>
-      </trans-unit>
-      <trans-unit id="156">
-        <source>Who can see this?</source>
-        <target>Qui peut voir?</target>
-      </trans-unit>
-      <trans-unit id="157">
-        <source>Published</source>
-        <target>Publié</target>
-      </trans-unit>
-      <trans-unit id="158">
-        <source>apply to subpages</source>
-        <target>Appliquer aux pages inférieures</target>
-      </trans-unit>
-      <trans-unit id="159">
-        <source>Menu Settings</source>
-        <target>Options du menu</target>
-      </trans-unit>
-      <trans-unit id="160">
-        <source>Meta Description</source>
-        <target>Meta Description</target>
-      </trans-unit>
-      <trans-unit id="162">
-        <source>Delete This Page</source>
-        <target>Supprimer cette page</target>
-      </trans-unit>
-      <trans-unit id="163">
-        <source>Are you sure? This operation can not be undone. Consider unpublishing the page instead.</source>
-        <target>En êtes-vous sur? Cette opération est irréversible. Vous pouvez aussi dépublier la page.</target>
-      </trans-unit>
-      <trans-unit id="168">
-        <source>The Foundation</source>
-        <target>La Fondation</target>
-      </trans-unit>
-      <trans-unit id="169">
-        <source>Our Partnerships</source>
-        <target>Nos ambassadeurs</target>
-      </trans-unit>
-      <trans-unit id="170">
-        <source>Find a Retailer</source>
-        <target>Trouver un Revendeur</target>
-      </trans-unit>
-      <trans-unit id="171">
-        <source>Visit one of our partner retailers</source>
-        <target>Rendez visite à l'un de nos partenaires revendeurs</target>
-      </trans-unit>
-      <trans-unit id="172">
-        <source>Select a Continent</source>
-        <target>Sélectionnez un continent</target>
-      </trans-unit>
-      <trans-unit id="173">
-        <source>Select a Country</source>
-        <target>Sélectionnez un pays</target>
-      </trans-unit>
-      <trans-unit id="174">
-        <source>Select a City</source>
-        <target>Sélectionnez une ville</target>
-      </trans-unit>
-      <trans-unit id="175">
-        <source>Our Boutiques</source>
-        <target>Nos Boutiques</target>
-      </trans-unit>
-      <trans-unit id="176">
-        <source>There’s no better place to immerse yourself in the world of Audemars Piguet.</source>
-        <target>Des espaces entièrement dédiés à l’univers Audemars Piguet.</target>
-      </trans-unit>
-      <trans-unit id="177">
-        <source>Results</source>
-        <target>Résultats</target>
-      </trans-unit>
-      <trans-unit id="178">
-        <source>All boutiques</source>
-        <target>Toutes les boutiques</target>
-      </trans-unit>
-      <trans-unit id="180">
-        <source>Repair &amp;amp; Service</source>
-        <target>Entretien &amp;amp; Réparations</target>
-      </trans-unit>
-      <trans-unit id="183">
-        <source>Tags Admin</source>
-        <target>Tags Admin</target>
-      </trans-unit>
-      <trans-unit id="184">
-        <source>Edit Tag</source>
-        <target>Editer un tag</target>
-      </trans-unit>
-      <trans-unit id="185">
-        <source>New Tag</source>
-        <target>Nouveau tag</target>
-      </trans-unit>
-      <trans-unit id="186">
-        <source>Tag</source>
-        <target>Tags</target>
-      </trans-unit>
-      <trans-unit id="187">
-        <source>Blog</source>
-        <target>Blog</target>
-      </trans-unit>
-      <trans-unit id="188">
-        <source>aEvent</source>
-        <target>aEvent</target>
-      </trans-unit>
-      <trans-unit id="189">
-        <source>Pages</source>
-        <target>Pages</target>
-      </trans-unit>
-      <trans-unit id="190">
-        <source>Media</source>
-        <target>Media</target>
-      </trans-unit>
-      <trans-unit id="191">
-        <source>Events</source>
-        <target>Events</target>
-      </trans-unit>
-      <trans-unit id="192">
-        <source>Main Image</source>
-        <target>Image principale</target>
-      </trans-unit>
-      <trans-unit id="193">
-        <source>Choose Main Image</source>
-        <target>Choisir l'image principale</target>
-      </trans-unit>
-      <trans-unit id="194">
-        <source>We can email you instructions to reset your password.</source>
-        <target>Nous pouvons vous envoyer des instructions par e-mail afin de renouveler votre mot de passe. </target>
-      </trans-unit>
-      <trans-unit id="195">
-        <source>Reset Password</source>
-        <target>Renouveler votre mot de passe</target>
-      </trans-unit>
-      <trans-unit id="196">
-        <source>Company</source>
-        <target>À propos</target>
-      </trans-unit>
-      <trans-unit id="197">
-        <source>Latest</source>
-        <target>Le plus récent</target>
-      </trans-unit>
-      <trans-unit id="198">
-        <source>%1% Audemars Piguet, Le Brassus since 1875.</source>
-        <target>%1% Audemars Piguet, Le Brassus depuis 1875.</target>
-      </trans-unit>
-      <trans-unit id="199">
+      <trans-unit id="18">
         <source>Explore More Audemars Piguet</source>
         <target>Plongez vous dans l'univers Audemars Piguet</target>
       </trans-unit>
-      <trans-unit id="201">
+      <trans-unit id="19">
+        <source>Watch Family Admin</source>
+        <target>Administration des familles de montres</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>ID</source>
+        <target>Identifiant</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>Family Name</source>
+        <target>Nom de famille</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>Categories Admin</source>
+        <target>Administration des catégories</target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>Edit Category</source>
+        <target>Editer une catégorie</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>New Category</source>
+        <target>Nouvelle catégorie</target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>Active Users</source>
+        <target>Utilisateurs actifs</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>Category</source>
+        <target>Catégorie</target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source>Media Items</source>
+        <target>Eléments média</target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source>Watch Collection Admin</source>
+        <target>Administration des Collections</target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>Our Collections</source>
+        <target>Nos Collections</target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>View model</source>
+        <target>Voir le modèle</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>2013 Novelties</source>
+        <target>Nouveautés 2013</target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source>Ladies</source>
+        <target>Collection Dames</target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source>Novelties</source>
+        <target>Royal Oak 40 years</target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source>2013&lt;br/&gt; Novelties</source>
+        <target>Nouveautés &lt;br/&gt; 2013</target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source>Edit</source>
+        <target>Editez</target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source>Latest Articles</source>
+        <target>Derniers récits</target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source>Read More</source>
+        <target>Lire</target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source>Latest News</source>
+        <target>Nouvelles récentes</target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source>All News</source>
+        <target>Toutes les nouvelles</target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source>News</source>
+        <target>Nouvelles</target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source>Collection Name</source>
+        <target>Nom des collections</target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source>Homepage Marquee Slot</source>
+        <target>Emplacement du chapeau de la page d'accueil</target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source>Marquee Image</source>
+        <target>Image chapeau</target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source>Brightcove Video Preview Image</source>
+        <target>Image de prévisualisation vidéo Brightcove</target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source>Create Home page Marquee Block</source>
+        <target>Créer le bloc chapeau de la page d'accueil</target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source>Choose Marquee Image</source>
+        <target>Choisir l'image Chapeau</target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source>Select an Image</source>
+        <target>Sélectionner une image</target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source>Choose Video Preview Image</source>
+        <target>Choisir l'image de prévisualisation de la vidéo</target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source>Permissions: Hidden Photos can be used in photo slots, but are not displayed in the Media section.</source>
+        <target>Permissions: Les photos cachées peuvent être insérées dans leurs emplacements respectifs, mais ne seront pas diffusées dans la section média.</target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source>Replace Thumbnail</source>
+        <target>Remplacer les miniatures</target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source>Replace File</source>
+        <target>Remplacer le fichier</target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source>Delete File</source>
+        <target>Supprimer le fichier</target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source>%buttonspan%Download Original</source>
+        <target>%buttonspan%Téléchargez l'original</target>
+      </trans-unit>
+      <trans-unit id="54">
+        <source>Cancel</source>
+        <target>Annuler</target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source>Save Media</source>
+        <target>Sauvegarder le média</target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source>Save</source>
+        <target>Sauvegarder</target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source>Delete</source>
+        <target>Supprimer</target>
+      </trans-unit>
+      <trans-unit id="58">
+        <source>Are you sure you want to delete this item?</source>
+        <target>Êtes-vous sûr de vouloir supprimer cet élément?</target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source>This file will be replaced after you click save.</source>
+        <target>Ce fichier sera remplacé après avoir cliqué sur sauvegarder.</target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source>, </source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source>About The Collection</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="62">
+        <source>Mens Collection</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source>Ladies Collection</source>
+        <target>Collection Dames</target>
+      </trans-unit>
+      <trans-unit id="64">
+        <source>See All Ladies watches</source>
+        <target>Voir l'ensemble des collections Dames</target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source>Iconic Moments</source>
+        <target>Instants Légendaires</target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source>Download Image</source>
+        <target>Téléchargez l'image</target>
+      </trans-unit>
+      <trans-unit id="67">
+        <source>Close</source>
+        <target>Fermer</target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source>Also in Ladies</source>
+        <target>Également dans la collection Dames</target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source>Magnify</source>
+        <target>Agrandir</target>
+      </trans-unit>
+      <trans-unit id="70">
+        <source>Expert Service</source>
+        <target>Nos experts à votre service</target>
+      </trans-unit>
+      <trans-unit id="71">
+        <source>See it in person</source>
+        <target>Visite d'une Boutique</target>
+      </trans-unit>
+      <trans-unit id="72">
+        <source>Novelty</source>
+        <target>Nouveauté</target>
+      </trans-unit>
+      <trans-unit id="73">
+        <source>Latest Creation</source>
+        <target>Nos dernières créations</target>
+      </trans-unit>
+      <trans-unit id="74">
+        <source>See all models</source>
+        <target>Voir tous les modèles</target>
+      </trans-unit>
+      <trans-unit id="75">
+        <source>Details</source>
+        <target>Détails</target>
+      </trans-unit>
+      <trans-unit id="76">
+        <source>Case</source>
+        <target>Boîte</target>
+      </trans-unit>
+      <trans-unit id="77">
+        <source>Dial</source>
+        <target>Cadran</target>
+      </trans-unit>
+      <trans-unit id="78">
+        <source>Bracelet</source>
+        <target>Bracelet</target>
+      </trans-unit>
+      <trans-unit id="79">
+        <source>Jewels</source>
+        <target>Rubis</target>
+      </trans-unit>
+      <trans-unit id="80">
+        <source>Reference</source>
+        <target>Référence</target>
+      </trans-unit>
+      <trans-unit id="81">
+        <source>Type of balance</source>
+        <target>Type de balancier</target>
+      </trans-unit>
+      <trans-unit id="82">
+        <source>Type of balance-spring stud-holder</source>
+        <target>Type de porte-piton</target>
+      </trans-unit>
+      <trans-unit id="83">
+        <source>Balance-stop device</source>
+        <target>Stop balancier</target>
+      </trans-unit>
+      <trans-unit id="84">
+        <source>Direction of automatic winding</source>
+        <target>Sens de remontage de l'automatique</target>
+      </trans-unit>
+      <trans-unit id="85">
+        <source>Type of oscillating weight</source>
+        <target>Type de masse</target>
+      </trans-unit>
+      <trans-unit id="86">
+        <source>Power reserve</source>
+        <target>Réserve de marche</target>
+      </trans-unit>
+      <trans-unit id="87">
+        <source>Shock-absorbing system</source>
+        <target>Système anti-chocs</target>
+      </trans-unit>
+      <trans-unit id="88">
+        <source>Angle of lift</source>
+        <target>Angle de levée</target>
+      </trans-unit>
+      <trans-unit id="89">
+        <source>Number of parts</source>
+        <target>Nombre de composants</target>
+      </trans-unit>
+      <trans-unit id="90">
+        <source>Water Resistance</source>
+        <target>Étanchéité</target>
+      </trans-unit>
+      <trans-unit id="91">
+        <source>None</source>
+        <target>Aucun</target>
+      </trans-unit>
+      <trans-unit id="92">
+        <source>Selfwinding</source>
+        <target>Remontage automatique</target>
+      </trans-unit>
+      <trans-unit id="93">
+        <source>Calibre</source>
+        <target>Calibre</target>
+      </trans-unit>
+      <trans-unit id="94">
+        <source>Front</source>
+        <target>Face</target>
+      </trans-unit>
+      <trans-unit id="95">
+        <source>Back</source>
+        <target>Dos</target>
+      </trans-unit>
+      <trans-unit id="96">
+        <source>View Model</source>
+        <target>Voir le modèle</target>
+      </trans-unit>
+      <trans-unit id="97">
+        <source>Click For Next Image</source>
+        <target>Cliquez pour voir l'image suivante</target>
+      </trans-unit>
+      <trans-unit id="98">
+        <source>Watch Collection Slot</source>
+        <target>Emplacement de la collection</target>
+      </trans-unit>
+      <trans-unit id="99">
+        <source>Background Image</source>
+        <target>Image d'arrère plan</target>
+      </trans-unit>
+      <trans-unit id="100">
+        <source>Choose Background Image</source>
+        <target>Choisir une image d'arrière plan</target>
+      </trans-unit>
+      <trans-unit id="101">
+        <source>%num% watches</source>
+        <target>%num% montres</target>
+      </trans-unit>
+      <trans-unit id="102">
+        <source>Create a Watch Collection</source>
+        <target>Créer une collection</target>
+      </trans-unit>
+      <trans-unit id="103">
+        <source>Sign In</source>
+        <target>Connexion</target>
+      </trans-unit>
+      <trans-unit id="104">
+        <source>Forgot your password?</source>
+        <target>Mot de passe oublié?</target>
+      </trans-unit>
+      <trans-unit id="105">
+        <source>Want to register?</source>
+        <target>Vous inscrire?</target>
+      </trans-unit>
+      <trans-unit id="106">
+        <source>Craft</source>
+        <target>Héritage</target>
+      </trans-unit>
+      <trans-unit id="107">
+        <source>Also read</source>
+        <target>Lire également</target>
+      </trans-unit>
+      <trans-unit id="108">
+        <source>Watch Model Admin</source>
+        <target>Administration des modèles</target>
+      </trans-unit>
+      <trans-unit id="109">
+        <source>Model Name</source>
+        <target>Nom du modèle</target>
+      </trans-unit>
+      <trans-unit id="110">
+        <source>Recent Stories</source>
+        <target>Derniers récits</target>
+      </trans-unit>
+      <trans-unit id="111">
+        <source>New Creations</source>
+        <target>Dernières créations</target>
+      </trans-unit>
+      <trans-unit id="112">
+        <source>Manuals</source>
+        <target>Manuels et Numéros d’Enregistrement</target>
+      </trans-unit>
+      <trans-unit id="113">
+        <source>Maintenance &amp;amp; Repair</source>
+        <target>Entretien et réparations</target>
+      </trans-unit>
+      <trans-unit id="114">
+        <source>Warranties</source>
+        <target>Garanties</target>
+      </trans-unit>
+      <trans-unit id="115">
+        <source>FAQ's</source>
+        <target>Questions courantes</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Don't have an account?</source>
+        <target>Vous n'avez pas encore de compte utilisateur?</target>
+      </trans-unit>
+      <trans-unit id="117">
+        <source>Create one</source>
+        <target>Créer un compte utilisateur</target>
+      </trans-unit>
+      <trans-unit id="118">
+        <source>Title</source>
+        <target>Titre</target>
+      </trans-unit>
+      <trans-unit id="119">
+        <source>Page Type</source>
+        <target>Type de page</target>
+      </trans-unit>
+      <trans-unit id="120">
+        <source>Who can see this?</source>
+        <target>Qui peut voir?</target>
+      </trans-unit>
+      <trans-unit id="121">
+        <source>Published</source>
+        <target>Publié</target>
+      </trans-unit>
+      <trans-unit id="122">
+        <source>apply to subpages</source>
+        <target>Appliquer aux pages inférieures</target>
+      </trans-unit>
+      <trans-unit id="123">
+        <source>Menu Settings</source>
+        <target>Options du menu</target>
+      </trans-unit>
+      <trans-unit id="124">
+        <source>Meta Description</source>
+        <target>Meta Description</target>
+      </trans-unit>
+      <trans-unit id="125">
+        <source>Delete This Page</source>
+        <target>Supprimer cette page</target>
+      </trans-unit>
+      <trans-unit id="126">
+        <source>Are you sure? This operation can not be undone. Consider unpublishing the page instead.</source>
+        <target>En êtes-vous sur? Cette opération est irréversible. Vous pouvez aussi dépublier la page.</target>
+      </trans-unit>
+      <trans-unit id="127">
+        <source>The Foundation</source>
+        <target>La Fondation</target>
+      </trans-unit>
+      <trans-unit id="128">
+        <source>Our Partnerships</source>
+        <target>Nos ambassadeurs</target>
+      </trans-unit>
+      <trans-unit id="129">
+        <source>Find a Retailer</source>
+        <target>Trouver un Revendeur</target>
+      </trans-unit>
+      <trans-unit id="130">
+        <source>Visit one of our partner retailers</source>
+        <target>Rendez visite à l'un de nos partenaires revendeurs</target>
+      </trans-unit>
+      <trans-unit id="131">
+        <source>Select a Continent</source>
+        <target>Sélectionnez un continent</target>
+      </trans-unit>
+      <trans-unit id="132">
+        <source>Select a Country</source>
+        <target>Sélectionnez un pays</target>
+      </trans-unit>
+      <trans-unit id="133">
+        <source>Select a City</source>
+        <target>Sélectionnez une ville</target>
+      </trans-unit>
+      <trans-unit id="134">
+        <source>Our Boutiques</source>
+        <target>Nos Boutiques</target>
+      </trans-unit>
+      <trans-unit id="135">
+        <source>There’s no better place to immerse yourself in the world of Audemars Piguet.</source>
+        <target>Des espaces entièrement dédiés à l’univers Audemars Piguet.</target>
+      </trans-unit>
+      <trans-unit id="136">
+        <source>Results</source>
+        <target>Résultats</target>
+      </trans-unit>
+      <trans-unit id="137">
+        <source>All boutiques</source>
+        <target>Toutes les boutiques</target>
+      </trans-unit>
+      <trans-unit id="138">
+        <source>Repair &amp;amp; Service</source>
+        <target>Entretien &amp;amp; Réparations</target>
+      </trans-unit>
+      <trans-unit id="139">
+        <source>Tags Admin</source>
+        <target>Tags Admin</target>
+      </trans-unit>
+      <trans-unit id="140">
+        <source>Edit Tag</source>
+        <target>Editer un tag</target>
+      </trans-unit>
+      <trans-unit id="141">
+        <source>New Tag</source>
+        <target>Nouveau tag</target>
+      </trans-unit>
+      <trans-unit id="142">
+        <source>Tag</source>
+        <target>Tags</target>
+      </trans-unit>
+      <trans-unit id="143">
+        <source>Blog</source>
+        <target>Blog</target>
+      </trans-unit>
+      <trans-unit id="144">
+        <source>aEvent</source>
+        <target>aEvent</target>
+      </trans-unit>
+      <trans-unit id="145">
+        <source>Pages</source>
+        <target>Pages</target>
+      </trans-unit>
+      <trans-unit id="146">
+        <source>Media</source>
+        <target>Media</target>
+      </trans-unit>
+      <trans-unit id="147">
+        <source>Events</source>
+        <target>Events</target>
+      </trans-unit>
+      <trans-unit id="148">
+        <source>Main Image</source>
+        <target>Image principale</target>
+      </trans-unit>
+      <trans-unit id="149">
+        <source>Choose Main Image</source>
+        <target>Choisir l'image principale</target>
+      </trans-unit>
+      <trans-unit id="150">
+        <source>We can email you instructions to reset your password.</source>
+        <target>Nous pouvons vous envoyer des instructions par e-mail afin de renouveler votre mot de passe. </target>
+      </trans-unit>
+      <trans-unit id="151">
+        <source>Reset Password</source>
+        <target>Renouveler votre mot de passe</target>
+      </trans-unit>
+      <trans-unit id="152">
+        <source>Company</source>
+        <target>À propos</target>
+      </trans-unit>
+      <trans-unit id="153">
+        <source>Latest</source>
+        <target>Le plus récent</target>
+      </trans-unit>
+      <trans-unit id="154">
+        <source>%1% Audemars Piguet, Le Brassus since 1875.</source>
+        <target>%1% Audemars Piguet, Le Brassus depuis 1875.</target>
+      </trans-unit>
+      <trans-unit id="155">
         <source>[0]No models|[1]1 model|(1,+Inf]%1% models</source>
         <target>[0]No modèles|[1]1 modèle|(1,+Inf]%1% modèles</target>
       </trans-unit>
-      <trans-unit id="204">
+      <trans-unit id="156">
         <source>News #</source>
         <target>Nouvelles #</target>
       </trans-unit>
-      <trans-unit id="205">
+      <trans-unit id="157">
         <source>Story #</source>
         <target>Récits #</target>
       </trans-unit>
-      <trans-unit id="206">
+      <trans-unit id="158">
         <source>Second large banner image</source>
         <target>Deuxième grande bannière </target>
       </trans-unit>
-      <trans-unit id="207">
+      <trans-unit id="159">
         <source>Choose Featured Watch Image</source>
         <target>Choisir l'image principale de la montre</target>
       </trans-unit>
-      <trans-unit id="208">
+      <trans-unit id="160">
         <source>Choose Thumbnail Image</source>
         <target>Choisir l'image miniature</target>
       </trans-unit>
-      <trans-unit id="209">
+      <trans-unit id="161">
         <source>[0]No styles|[1]1 Style|(1,+Inf]%1% Styles</source>
         <target>[0]Sans styles|[1]1 Style|(1,+Inf]%1% Styles</target>
       </trans-unit>
-      <trans-unit id="210">
+      <trans-unit id="162">
         <source>Variations:</source>
         <target>Variations:</target>
       </trans-unit>
-      <trans-unit id="211">
+      <trans-unit id="163">
         <source>_novelties_page_title_</source>
         <target>Nouveatés 2013</target>
       </trans-unit>
-      <trans-unit id="212">
+      <trans-unit id="164">
         <source>_novelties_meta_desc_</source>
         <target>Nouvelles collections de montres de luxe suisses Audemars Piguet. Chronographes, montres squelette et montres tourbillon conçues pour hommes et femmes.</target>
       </trans-unit>
-      <trans-unit id="213">
+      <trans-unit id="165">
         <source>_novelties_meta_keywords_</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="214">
+      <trans-unit id="166">
         <source>_ladies_page_title_</source>
         <target>Collections Montres Femmes</target>
       </trans-unit>
-      <trans-unit id="215">
+      <trans-unit id="167">
         <source>_ladies_meta_desc_</source>
         <target>Collections de montres suisses de luxe pour femmes de la marque horlogère Audemars Piguet.</target>
       </trans-unit>
-      <trans-unit id="216">
+      <trans-unit id="168">
         <source>_ladies_meta_keywords_</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="217">
+      <trans-unit id="169">
         <source>Choose Video thumbnail Image</source>
         <target>Choisisir une image miniature</target>
       </trans-unit>
-      <trans-unit id="218">
+      <trans-unit id="170">
         <source>Collection Name - Model Name - Watch Reference</source>
         <target>Nom de la Collection - Nom du modèle - Référence</target>
       </trans-unit>
-      <trans-unit id="219">
+      <trans-unit id="171">
         <source>Collection Name - Model Name</source>
         <target>Nom de la Collection - Nom du modèle</target>
       </trans-unit>
-      <trans-unit id="220">
+      <trans-unit id="172">
         <source>Account Login</source>
         <target>Identifiant</target>
       </trans-unit>
-      <trans-unit id="221">
+      <trans-unit id="173">
         <source>our company’s exceptional story has all unfolded here, in le brassus. discover our singular approach to watchmaking, our history and our ongoing story.</source>
         <target>C'est ici, au Brassus, que s’est toujours jouée l'exceptionnelle destinée de notre marque. Découvrez notre approche singulière de l’horlogerie, notre histoire et notre actualité.</target>
       </trans-unit>
-      <trans-unit id="222">
+      <trans-unit id="174">
         <source>Contact</source>
         <target>Contact</target>
       </trans-unit>
-      <trans-unit id="223">
+      <trans-unit id="175">
         <source>Share</source>
         <target>Partagez</target>
       </trans-unit>
-      <trans-unit id="224">
+      <trans-unit id="176">
         <source>Tweet</source>
         <target>Tweet</target>
       </trans-unit>
-      <trans-unit id="225">
+      <trans-unit id="177">
         <source>Explore Models</source>
         <target>Découvrir les modèles</target>
       </trans-unit>
-      <trans-unit id="226">
+      <trans-unit id="178">
         <source>Established 1875</source>
         <target>Établie en 1875</target>
       </trans-unit>
-      <trans-unit id="227">
+      <trans-unit id="179">
         <source>map</source>
         <target>plan</target>
       </trans-unit>
-      <trans-unit id="228">
+      <trans-unit id="180">
         <source>email</source>
         <target>e-mail</target>
       </trans-unit>
-      <trans-unit id="229">
+      <trans-unit id="181">
         <source>We're sorry, but you must have JavaScript enabled in your browser in order to search AudemarsPiguet.com.</source>
         <target>Vous devez activer Javascript dans votre navigateur afin d'effectuer des recherches sur le site Audemarspiguet.com</target>
       </trans-unit>
-      <trans-unit id="230">
+      <trans-unit id="182">
         <source>Results for</source>
         <target>Résultats pour</target>
       </trans-unit>
-      <trans-unit id="232">
+      <trans-unit id="183">
         <source>Previous</source>
         <target>Précédent</target>
       </trans-unit>
-      <trans-unit id="233">
+      <trans-unit id="184">
         <source>Next</source>
         <target>Suivant</target>
       </trans-unit>
-      <trans-unit id="234">
+      <trans-unit id="185">
         <source>Read stories about </source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="235">
+      <trans-unit id="186">
         <source>New file: </source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="236">
-        <source>About The Collection</source>
-        <target/>
-      </trans-unit>
-      <trans-unit id="237">
-        <source>Mens Collection</source>
-        <target/>
-      </trans-unit>
-      <trans-unit id="238">
+      <trans-unit id="187">
         <source>Also in Mens</source>
         <target>Également dans la collection Hommes</target>
       </trans-unit>
-      <trans-unit id="239">
+      <trans-unit id="188">
         <source>View Larger</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="240">
+      <trans-unit id="189">
         <source>Audemars Pigeut boutique in Geneva, Switzerland</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="241">
+      <trans-unit id="190">
         <source>Specifications</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="242">
+      <trans-unit id="191">
         <source>Cadence of the balance [ vibrations/hour ]</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="243">
+      <trans-unit id="192">
         <source>Terms of use of the Audemars Piguet website</source>
         <target>Conditions générales d'utilisation du site internet Audemars Piguet</target>
       </trans-unit>
-      <trans-unit id="244">
+      <trans-unit id="193">
         <source>This website is provided by Audemars Piguet &amp; Cie and its subsidiaries, referred to hereafter as “Audemars Piguet”. Use of this site is subject to the terms of use expounded hereafter. Audemars Piguet is entitled to revise these terms of use at any time, by updating the “terms of use” section. The revised terms take effect at the date when they are posted on this section.</source>
         <target>Ce site Internet est publié par Audemars Piguet &amp; Cie et ses filiales, désignées ci-après comme “Audemars Piguet”. L'utilisation de ce site est soumise aux conditions d'utilisation énoncées ci-après. Audemars Piguet peut réviser ces conditions d'utilisation à n'importe quel moment en actualisant la section “conditions d'utilisation”. La révision des conditions prend effet à la date de leur envoi sur cette section.</target>
       </trans-unit>
-      <trans-unit id="245">
+      <trans-unit id="194">
         <source>Before using this web-site, you must read this section carefully. Your use of the site implies that you accept the terms of use.</source>
         <target>Avant d'utiliser ce site Internet, vous devez lire attentivement cette section. Votre utilisation du site signifie que vous acceptez les conditions d'utilisation.</target>
       </trans-unit>
-      <trans-unit id="246">
+      <trans-unit id="195">
         <source>Terms of use of the material provided on the Audemars Piguet website</source>
         <target>Conditions d'utilisation du matériel se trouvant sur le site Internet Audemars Piguet</target>
       </trans-unit>
-      <trans-unit id="247">
+      <trans-unit id="196">
         <source>The information provided on this web-site is exclusively for your personal use. Anything you see or read on this site is protected by copyright as well as by international copyright laws and treaties dealing with copyright. You may download or print the material found on this site exclusively for non-commercial purposes, provided you do not change any copyright, any trademark or other notifications of property.</source>
         <target>Les informations contenues sur ce site Internet sont uniquement pour votre usage personnel. Tout ce que vous voyez ou lisez sur ce site est protégé par des droits d'auteur ainsi que par des traités et lois internationaux sur le droit d'auteur. Vous pouvez télécharger ou imprimer du matériel se trouvant sur ce site uniquement à des fins non commerciales, pour autant que vous n’echangiez aucun droit d'auteur, aucune marque ou autres notifications de propriété.</target>
       </trans-unit>
-      <trans-unit id="248">
+      <trans-unit id="197">
         <source>It is forbidden to sell, reproduce, distribute, modify, display or present in public any Audemars Piguet material for public or commercial purposes. Moreover, you may not use Audemars Piguet material on another web-site or another computerised medium. Any non-authorised use of Audemars Piguet material may infringe laws on copyright, trademarks, respect for private life and advertising, as well as regulatory laws and texts on communications.</source>
         <target>Il est interdit de vendre, reproduire, distribuer, modifier, afficher ou présenter en public du matériel Audemars Piguet à toute fin publique ou commerciale. En outre, vous ne pouvez pas utiliser le matériel Audemars Piguet sur un autre site Internet ou dans un autre outil informatique. Toute utilisation non autorisée du matériel Audemars Piguet peut enfreindre les lois sur le droit d'auteur, sur les marques, sur le respect de la vie privée et la publicité, ainsi que les lois et textes réglementaires sur les communications.</target>
       </trans-unit>
-      <trans-unit id="249">
+      <trans-unit id="198">
         <source>You may not connect to the Audemars Piguet website from the site of a third party. Under no circumstances shall Audemars Piguet be held responsible for any losses linked to the use of the information or software available on its site, even if it has been warned of the possibility of damage.</source>
         <target>Vous ne pouvez pas vous connecter au site Internet Audemars Piguet à partir du site d'une tierce partie. En aucun cas Audemars Piguet n'est responsable des pertes en rapport avec l'utilisation des informations ou des logiciels disponibles sur son site, même si elle a été avertie de la possibilité de dommages.</target>
       </trans-unit>
-      <trans-unit id="250">
+      <trans-unit id="199">
         <source>Links to other websites</source>
         <target>Liens avec d'autres sites Internet</target>
       </trans-unit>
-      <trans-unit id="251">
+      <trans-unit id="200">
         <source>This site offers you links with other sites operated by third parties other than Audemars Piguet. The fact of including these sites does not imply Audemars Piguet's approval of the content of these sites. Connections to these sites may be established at your own risk.</source>
         <target>Ce site vous propose des liens à d'autres sites exploités par des tiers autres qu'Audemars Piguet. L'inclusion de ces sites ne sous-entend pas l'aval d'Audemars Piguet du contenu de ces sites. La connexion à ces sites est à vos propres risques.</target>
       </trans-unit>
-      <trans-unit id="252">
+      <trans-unit id="201">
         <source>Personal data protection</source>
         <target>Protection des données personnelles</target>
       </trans-unit>
-      <trans-unit id="253">
+      <trans-unit id="202">
         <source>Audemars Piguet hereby undertakes to protect the personal information provided by visitors to its website. The personal data are provided by visitors in full knowledge of this fact. Access to the personal data provided is exclusive to Audemars Piguet. Audemars Piguet does not make the personal data provided by visitors available to any third party whatsoever.</source>
         <target>Audemars Piguet s'engage à protéger les informations personnelles fournies par les visiteurs sur son site Internet. Les données personnelles sont fournies par les visiteurs en toute connaissance de cause. L'accès aux données personnelles fournies sont exclusivement exploitées par Audemars Piguet. Audemars Piguet ne rend disponible à aucun tiers les données personnelles fournies par les visiteurs.</target>
       </trans-unit>
-      <trans-unit id="254">
+      <trans-unit id="203">
         <source>Old Tyme Logo</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="255">
+      <trans-unit id="204">
         <source>{ fig. 1} Original Audemars Piguet logo from 1922.</source>
         <target>{ fig. 1} Logo original Audemars Piguet, 1922.</target>
       </trans-unit>
-      <trans-unit id="256">
+      <trans-unit id="205">
         <source>This page has children that will also be deleted. </source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="257">
+      <trans-unit id="206">
         <source>Home</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="258">
+      <trans-unit id="207">
         <source>There do not seem to be any retailers in the location you have picked. That is pretty weird because we really carefully crafted this to not show options where there are no venodrs. So congrats. You broke our toy.</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="259">
+      <trans-unit id="208">
         <source>Our Savoir-Faire</source>
         <target>Notre Savoir-Faire</target>
       </trans-unit>
-      <trans-unit id="260">
+      <trans-unit id="209">
         <source>Loading Results...</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="261">
+      <trans-unit id="210">
         <source>submit</source>
         <target>valider</target>
       </trans-unit>
-      <trans-unit id="262">
+      <trans-unit id="211">
         <source>Limited Editions</source>
         <target>Édition Limitée</target>
       </trans-unit>
-      <trans-unit id="263">
+      <trans-unit id="212">
         <source>Base movement thickness</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="264">
+      <trans-unit id="213">
         <source>Movement thickness with module</source>
         <target>Epaisseur du mouvement avec module</target>
       </trans-unit>
-      <trans-unit id="265">
+      <trans-unit id="214">
         <source>Total diameter</source>
         <target>Diamètre total</target>
       </trans-unit>
-      <trans-unit id="266">
+      <trans-unit id="215">
         <source>lignes</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="267">
+      <trans-unit id="216">
         <source>Frequency of balance wheel</source>
         <target>Fréquence du balancier</target>
       </trans-unit>
-      <trans-unit id="268">
+      <trans-unit id="217">
         <source>Balance-spring type</source>
         <target>Type de spiral</target>
       </trans-unit>
-      <trans-unit id="269">
+      <trans-unit id="218">
         <source>Number of jewels</source>
         <target>Nombre de pierres</target>
       </trans-unit>
-      <trans-unit id="270">
+      <trans-unit id="219">
         <source>We apologize</source>
         <target>Veuillez nous excuser</target>
       </trans-unit>
-      <trans-unit id="271">
+      <trans-unit id="220">
         <source>The page seems to be missing or is causing an Error. It has been removed or no longer exists. Please feel free to continue exploring with one of the links below.</source>
         <target>La page que vous avez demandé est manquante ou a provoqué une erreur. Il est possible qu'elle ait été déplacée ou qu'elle n'existe plus.
 Nous vous invitons à continuer votre visite en vous aidant des liens ci-dessous.</target>
       </trans-unit>
-      <trans-unit id="272">
+      <trans-unit id="221">
         <source>Terms of Use</source>
         <target>Conditions d'utilisation</target>
       </trans-unit>
-      <trans-unit id="273">
+      <trans-unit id="222">
         <source>Functions</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="274">
+      <trans-unit id="223">
         <source>specificities</source>
         <target>spécificités</target>
       </trans-unit>
-      <trans-unit id="275">
+      <trans-unit id="224">
         <source>_404_page_title_</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="276">
+      <trans-unit id="225">
         <source>_404_meta_desc_</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="277">
+      <trans-unit id="226">
         <source>_404_meta_keywords_</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="278">
+      <trans-unit id="227">
         <source>Case Width</source>
         <target>Largeur du boîtier</target>
       </trans-unit>
-      <trans-unit id="279">
+      <trans-unit id="228">
         <source>Case Thickness</source>
         <target>Épaisseur du boîtier</target>
       </trans-unit>
-      <trans-unit id="280">
+      <trans-unit id="229">
         <source>Ladies Collection </source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="281">
+      <trans-unit id="230">
         <source>Audemars Piguet &amp;amp; Cie Sa</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="282">
+      <trans-unit id="231">
         <source>Audemars Piguet Customer Service</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="283">
+      <trans-unit id="232">
         <source>Often imitated, never equaled, the Royal Oak was the first watch to be defined not just by technical content and material, but also by aesthetic appeal. Celebrate its 40th anniversary.</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="284">
+      <trans-unit id="233">
         <source>Current Exhibition:</source>
         <target>Prochaine Exposition:</target>
       </trans-unit>
-      <trans-unit id="285">
+      <trans-unit id="234">
         <source>Edit Venue</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="286">
+      <trans-unit id="235">
         <source>Edit Dates</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="287">
+      <trans-unit id="236">
         <source>From Avant-Garde to Icon</source>
         <target>D'avant-garde à icône</target>
       </trans-unit>
-      <trans-unit id="288">
+      <trans-unit id="237">
         <source>The Timepieces</source>
         <target>Pièces d'exception</target>
       </trans-unit>
-      <trans-unit id="289">
+      <trans-unit id="238">
         <source>Tour Dates &amp;amp; Locations</source>
         <target>Lieux et dates de l'exposition</target>
       </trans-unit>
-      <trans-unit id="290">
+      <trans-unit id="239">
         <source>Years</source>
-		<target>Ans</target>
+        <target>Ans</target>
       </trans-unit>
-      <trans-unit id="291">
+      <trans-unit id="240">
         <source>Chairwoman of the Board of Directors</source>
         <target>Présidente du Conseil d’administration</target>
       </trans-unit>
-      <trans-unit id="292">
+      <trans-unit id="241">
         <source>Designer of the original Royal Oak</source>
         <target>Designer de la Royal Oak originale</target>
       </trans-unit>
-      <trans-unit id="293">
+      <trans-unit id="242">
         <source>The fifteen iconic Royal Oaks</source>
         <target>15 royal oak légendaires</target>
       </trans-unit>
-      <trans-unit id="294">
+      <trans-unit id="243">
         <source>40 years.</source>
         <target>40 ans.</target>
       </trans-unit>
-      <trans-unit id="295">
+      <trans-unit id="244">
         <source>15 moments in time.</source>
         <target>15 moments emblématiques.</target>
       </trans-unit>
-      <trans-unit id="296">
+      <trans-unit id="245">
         <source>From Avant-Garde to Icon, journey through time with a spirit that endures.</source>
         <target>D'avant-garde à icône, voyage dans le temps avec un esprit qui perdure.</target>
       </trans-unit>
-      <trans-unit id="297">
+      <trans-unit id="246">
         <source>Begin</source>
         <target>Commencer</target>
       </trans-unit>
-      <trans-unit id="298">
-        <source>The fifteen iconic Royal Oaks</source>
-        <target>15 royal oak légendaires</target>
-      </trans-unit>
-      <trans-unit id="299">
+      <trans-unit id="247">
         <source>It Was to Change the Face of Modern Watchmaking</source>
         <target>Objectif : révolutionner l’horlogerie moderne</target>
       </trans-unit>
-      <trans-unit id="300">
+      <trans-unit id="248">
         <source>Designed virtually overnight by the brilliant and experienced stylist Gérald Genta, the Royal Oak was a bold response to a request for an “unprecedented steel watch.” Initially met with a blend of astonishment and contempt, the Royal Oak soon established itself as an iconic model that was to change the face of modern watchmaking.</source>
         <target>Dessinée en une nuit par Gérald Genta, la Royal Oak était une réponse audacieuse à tous ceux qui attendaient à cette époque, une « montre en acier inédite ». Après un accueil initial mitigé, la Royal Oak est rapidement devenue une montre emblématique qualifiée depuis de révolutionnaire de par la rupture qu’elle avait créée avec les codes horlogers de l’époque.</target>
       </trans-unit>
-      <trans-unit id="301">
+      <trans-unit id="249">
         <source>Perpetual Calendar Pocket Watch from 1918</source>
         <target>Montre de poche avec calendrier perpétuel de 1918</target>
       </trans-unit>
-      <trans-unit id="302">
+      <trans-unit id="250">
         <source>The Original Royal Oak</source>
         <target>Royal Oak originale</target>
       </trans-unit>
-      <trans-unit id="303">
+      <trans-unit id="251">
         <source>Watch Specs</source>
         <target>Spécificités</target>
       </trans-unit>
-      <trans-unit id="304">
+      <trans-unit id="252">
         <source>38.8 mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="305">
+      <trans-unit id="253">
         <source>11.00 mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="306">
+      <trans-unit id="254">
         <source>50 m</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="307">
+      <trans-unit id="255">
         <source>Function</source>
         <target>Fonction</target>
       </trans-unit>
-      <trans-unit id="308">
+      <trans-unit id="256">
         <source>Hours, minutes</source>
         <target>Heures, minutes, date</target>
       </trans-unit>
-      <trans-unit id="309">
+      <trans-unit id="257">
         <source>Stainless Steel Case</source>
         <target>Cadran bleu avec motif «Petite Tapisserie»</target>
       </trans-unit>
-      <trans-unit id="310">
+      <trans-unit id="258">
         <source>Dark blue dial with "Petite Tapisserie" pattern</source>
         <target>Cadran bleu avec motif «Petite Tapisserie</target>
       </trans-unit>
-      <trans-unit id="311">
+      <trans-unit id="259">
         <source>Stainless Steel Bracelet</source>
         <target>Bracelet en acier inoxydable</target>
       </trans-unit>
-      <trans-unit id="312">
+      <trans-unit id="260">
         <source>Type</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="313">
+      <trans-unit id="261">
         <source>Selfwinding Calibre 2121</source>
         <target>Bracelet en acier inoxydable</target>
       </trans-unit>
-      <trans-unit id="314">
+      <trans-unit id="262">
         <source>Diameter</source>
         <target>Diamètre</target>
       </trans-unit>
-      <trans-unit id="315">
+      <trans-unit id="263">
         <source>28.40mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="316">
+      <trans-unit id="264">
         <source>The World’s Thinnest Model of Its Kind</source>
         <target>Le modèle le plus fin au monde dans sa catégorie</target>
       </trans-unit>
-      <trans-unit id="317">
+      <trans-unit id="265">
         <source>The first Royal Oak Perpetual Calendar caliber 2120/2800 was designed to be the world’s thinnest model of its kind, endowed with a mechanical memory taking account of all calendar variations including months and leap year and requiring no manual intervention before the year 2100.</source>
         <target>La première Royal Oak à calendrier perpétuel équipée du calibre 2120/2800 a été conçue pour être la montre la plus plate de son époque. Dotée d'une mémoire mécanique prenant en compte toutes les variations de calendrier incluant les mois ainsi que les années bissextiles, elle ne nécessite aucune intervention manuelle jusqu’en 2100.</target>
       </trans-unit>
-      <trans-unit id="318">
+      <trans-unit id="266">
         <source>Royal Oak Perpetual Calendar</source>
         <target>Royal Oak à calendrier perpétuel</target>
       </trans-unit>
-      <trans-unit id="319">
+      <trans-unit id="267">
         <source>39 mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="320">
+      <trans-unit id="268">
         <source>Hours, minutes, Perpetual calendar with day, date, moon phases, months</source>
         <target>Quantième perpetuel avec jour, date, phase de lune, mois, heure, minutes</target>
       </trans-unit>
-      <trans-unit id="321">
+      <trans-unit id="269">
         <source>Opaline rhodium plated dial, applied hour-marker, white gold hands</source>
         <target>Cadran rhodié opalin, index applique, aiguille en or gris</target>
       </trans-unit>
-      <trans-unit id="322">
+      <trans-unit id="270">
         <source>Selfwiding Calibre 2120/2800</source>
         <target>Calibre 2120/2800 à remontage automatique</target>
       </trans-unit>
-      <trans-unit id="323">
+      <trans-unit id="271">
         <source>28.4mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="324">
+      <trans-unit id="272">
         <source>Day and Date, Powered Like Never Before</source>
         <target>Le jour et la date, un mouvement totalement inédit</target>
       </trans-unit>
-      <trans-unit id="325">
+      <trans-unit id="273">
         <source>Featuring a white dial with secondary dials for day and date displays at 9 and 3 o’clock framing a moon-phase display at 6, all powered by an entirely in-housed developed mechanism, this highly successful model offered an excellent alternative to the perpetual calendar movement.</source>
         <target>Cette montre cadran blanc avec deux compteurs pour l'affichage du jour et de la date, à 9 et 3 heures, et un affichage de la phase de lune à 6 heures est animée par un calibre maison et propose une alternative séduisante au mouvement à calendrier perpétuel.</target>
       </trans-unit>
-      <trans-unit id="326">
+      <trans-unit id="274">
         <source>Selfwinding Calibre 2124/2825</source>
         <target>Calibre 2124/2825 à remontage automatique</target>
       </trans-unit>
-      <trans-unit id="327">
+      <trans-unit id="275">
         <source>Royal Oak Day Date</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="328">
+      <trans-unit id="276">
         <source>36 mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="329">
+      <trans-unit id="277">
         <source>Hours, minutes, days of the week, pointer-type simple calendar display and moon phases</source>
         <target>Heures, minutes, jours de la semaine, quantième simple à aiguille et phases de lune</target>
       </trans-unit>
-      <trans-unit id="330">
+      <trans-unit id="278">
         <source>Silvered dial with “Grande Tapisserie” pattern, white gold applied hour markers with luminescent coating</source>
         <target>Cadran argenté avec motif «Grande Tapisserie», index en or gris avec dépôt luminescent</target>
       </trans-unit>
-      <trans-unit id="331">
+      <trans-unit id="279">
         <source>26.6mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="332">
+      <trans-unit id="280">
         <source>Elegant, Unassuming, the World’s First Tantalum Case</source>
         <target>Élégante et modeste, la première boîte en tantale au monde</target>
       </trans-unit>
-      <trans-unit id="333">
+      <trans-unit id="281">
         <source>Elegantly understated thin quartz model without seconds hand. The case features a world-first use of tantalum, a non-allergenic material ensuring a soft warm feeling on the wrist and which changes color according to the degree of oxidation induced by the climate where it is worn.</source>
         <target>Modèle à quartz fin, sobre et élégant, sans aiguille des secondes. Première mondiale, sa boîte est fabriquée en tantale, matériau non allergénique au toucher très doux, qui change de couleur en fonction du degré d’oxydation induit par le climat.</target>
       </trans-unit>
-      <trans-unit id="334">
+      <trans-unit id="282">
         <source>Quartz Calibre 2612</source>
         <target>Calibre 2612 à quartz</target>
       </trans-unit>
-      <trans-unit id="335">
+      <trans-unit id="283">
         <source>Royal Oak Quartz</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="336">
+      <trans-unit id="284">
         <source>33 mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="337">
+      <trans-unit id="285">
         <source>Hours, minutes, date</source>
         <target>Heures, minutes, date</target>
       </trans-unit>
-      <trans-unit id="338">
+      <trans-unit id="286">
         <source>Stainless steel and tantalum case</source>
         <target>Boite en Tantale et acier</target>
       </trans-unit>
-      <trans-unit id="339">
+      <trans-unit id="287">
         <source>Tantalum dial with "Petite Tapisserie" pattern, white gold applied hour-markers</source>
         <target>Cadran en tantale avec motif "Petite tapisserie", index appliques en or gris</target>
       </trans-unit>
-      <trans-unit id="340">
+      <trans-unit id="288">
         <source>Stainless steel and tantalum bracelet</source>
         <target>Bracelet en tantale et acier</target>
       </trans-unit>
-      <trans-unit id="341">
+      <trans-unit id="289">
         <source>21.1mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="342">
+      <trans-unit id="290">
         <source>Flying in the Face of Convention</source>
         <target>Une montre qui fait fi des conventions</target>
       </trans-unit>
-      <trans-unit id="343">
+      <trans-unit id="291">
         <source>To mark the 20th anniversary of the Royal Oak, the first Royal Oak Offshore flew in the face of the prevailing craze for extra-thin watch cases with fully integrated movements. The concept behind this model designed to cater to the tastes of extreme sports enthusiasts was the “deconstructed” approach to the timepiece, intended to reveal how it was built and its key elements.</source>
         <target>Modèle créé pour le 20e anniversaire de la collection, la première Royal Oak Offshore faisait fi de l'engouement de l'époque pour des montres extra-fines à mouvement entièrement intégré. Le concept derrière ce modèle a été de concevoir une montre répondant aux goûts de sportifs extrême.</target>
       </trans-unit>
-      <trans-unit id="344">
+      <trans-unit id="292">
         <source>Royal Oak Offshore Chronograph</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="345">
+      <trans-unit id="293">
         <source>42 mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="346">
+      <trans-unit id="294">
         <source>Hours, minutes, small seconds, chronograph, date</source>
         <target>Heures, minutes, petite seconde, chronographe, date </target>
       </trans-unit>
-      <trans-unit id="347">
+      <trans-unit id="295">
         <source>Blue dial with "petite tapisserie" pattern, white gold applied hour-markers and Royal Oak hands with luminescent coating</source>
         <target>Cadran bleu avec motif "petite tapisserie", index appliques et aiguilles Royal Oak en or gris avec dépôt luminescent</target>
       </trans-unit>
-      <trans-unit id="348">
+      <trans-unit id="296">
         <source>Selfwinding Calibre 2226/2840</source>
         <target>Calibre 2226/2840 à remontage automatique</target>
       </trans-unit>
-      <trans-unit id="349">
+      <trans-unit id="297">
         <source>29.9mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="350">
+      <trans-unit id="298">
         <source>The Original Platinum-Iridium Selfwinding System</source>
         <target>Le système original à remontage automatique en platine et iridium </target>
       </trans-unit>
-      <trans-unit id="351">
+      <trans-unit id="299">
         <source>When launching the first Royal Oak selfwinding tourbillon watch, Audemars Piguet gave pride of place to a larger and lighter titanium tourbillon cage ensuring additional precision and a larger 54-hour power reserve. This model has a caseback-side winding crown and a platinum-iridium hammer-winding system to ensure the full visibility of the tourbillon at all times.</source>
         <target>Pour sa première Royal Oak tourbillon à remontage automatique, Audemars Piguet a tenu à fabriquer une cage en titane d’une extrême précision, et d’une réserve de marche plus longue de 54 heures. Sur le fond de boîte, on trouve une couronne de remontage et un système de remontage par marteau en platine et iridium, pour assurer la visibilité complète du tourbillon.</target>
       </trans-unit>
-      <trans-unit id="352">
+      <trans-unit id="300">
         <source>Selfwinding Calibre 2875</source>
         <target>Calibre 2875 à remontage automatique</target>
       </trans-unit>
-      <trans-unit id="353">
+      <trans-unit id="301">
         <source>Royal Oak Tourbillon</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="354">
+      <trans-unit id="302">
         <source>40 mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="355">
+      <trans-unit id="303">
         <source>Hours, minutes at 12 o’clock, pointer-type date display at 3 o’clock, tourbillon at 6 o’clock, power reserve at 9 o’clock.</source>
         <target>Heures, minutes à 12h, date à aiguille à 3h, tourbillon à 6h, réserve de marche à 9h.</target>
       </trans-unit>
-      <trans-unit id="356">
+      <trans-unit id="304">
         <source>18-carat pink gold case</source>
         <target>Boite en or rose 18 carats</target>
       </trans-unit>
-      <trans-unit id="357">
+      <trans-unit id="305">
         <source>White dial with "petite tapisserie" pattern</source>
         <target>Cadran blanc avec motif "petite tapisserie"</target>
       </trans-unit>
-      <trans-unit id="358">
+      <trans-unit id="306">
         <source>18-carat pink gold bracelet</source>
         <target>Bracelet en or rose 18 carats</target>
       </trans-unit>
-      <trans-unit id="359">
+      <trans-unit id="307">
         <source>Selfwinding Calibre 2875 with hammer system</source>
         <target>Calibre 2875 à remontage automatique</target>
       </trans-unit>
-      <trans-unit id="360">
+      <trans-unit id="308">
         <source>32.6mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="361">
+      <trans-unit id="309">
         <source>Hundreds of Intricacies, Months in the Making</source>
         <target>Des mois de développement pour des centaines de sophistications</target>
       </trans-unit>
-      <trans-unit id="362">
+      <trans-unit id="310">
         <source>The Royal Oak celebrated its 25th birthday with a Grande Complication model comprising three major complex mechanisms: perpetual calendar with moon-phase display, a perfectly tuned minute repeater, and a chronograph with split-second function. The unique piece on display was specifically created for the founder of the Cirque du Soleil, Guy Laliberté.</source>
         <target>La Royal Oak a célébré ses 25 ans avec le lancement d’une Grande Complication dotée d’un calendrier perpétuel avec affichage de la phase de lune, d’une répétition minute et d’un chronographe avec fonction rattrapante. La seule pièce exposée a été spécialement conçue pour le fondateur du Cirque du Soleil, Guy Laliberté.</target>
       </trans-unit>
-      <trans-unit id="363">
+      <trans-unit id="311">
         <source>Selfwinding Calibre 2885</source>
         <target>Calibre 2885 à remontage automatique avec répétition à minutes</target>
       </trans-unit>
-      <trans-unit id="364">
+      <trans-unit id="312">
         <source>Royal Oak Grande Complication</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="365">
+      <trans-unit id="313">
         <source>43.5 mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="366">
+      <trans-unit id="314">
         <source>Hours, minutes, small seconds, split-second chronograph 30-minute counter, perpetual calendar indicating the date at 9 o’clock, the day at 3 o’clock and the leap years at 6 o’clock, as well as the 52 weeks and moon phases at 12 o’clock</source>
         <target>Heures, minutes, petite seconde, chronographe avec rattrapante et compteur 30 minutes, quantième perpétuel avec indication de la date, du jour, des mois et des années bissextiles, ainsi que des 52 semaines et des phases de lune</target>
       </trans-unit>
-      <trans-unit id="367">
+      <trans-unit id="315">
         <source>18-carat white gold case</source>
         <target>Boite en Or gris 18 carats</target>
       </trans-unit>
-      <trans-unit id="368">
+      <trans-unit id="316">
         <source>Blue dial with "Grande tapisserie" pattern</source>
         <target>Cadran bleu avec motif "petite tapisserie"</target>
       </trans-unit>
-      <trans-unit id="369">
+      <trans-unit id="317">
         <source>18-carat white gold bracelet</source>
         <target>Bracelet en or gris 18 carats</target>
       </trans-unit>
-      <trans-unit id="370">
+      <trans-unit id="318">
         <source>31.6mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="371">
+      <trans-unit id="319">
         <source>The Perfect Blend of Performance and Sophistication</source>
         <target>La combinaison idéale entre performances et sophistication</target>
       </trans-unit>
-      <trans-unit id="372">
+      <trans-unit id="320">
         <source>The Royal Oak Concept was an avant-garde tribute to Royal Oak’s 30 years of a watchmaking revolution, an authentic “lab watch” embodying absolute performance through a blend of technical sophistication and extreme resistance. The case is the first ever to borrow a superalloy from the aeronautical industry: alacrite 602, the hardest material available at the time.</source>
         <target>La Royal Oak Concept était un hommage avant-gardiste aux 30 années de révolutions horlogères amorcées par la collection. Elle affiche des performances infaillibles, ainsi qu’une technicité et une résistance extrême. Première mondiale : sa boîte est fabriquée dans un superalliage emprunté au secteur aéronautique : l'alacrite 602, le matériau le plus dur alors disponible.</target>
       </trans-unit>
-      <trans-unit id="373">
+      <trans-unit id="321">
         <source>Hand-wound Caliber 2896</source>
         <target>Calibre 2896 à remontage automatique </target>
       </trans-unit>
-      <trans-unit id="374">
+      <trans-unit id="322">
         <source>Royal Oak Concept Watch</source>
         <target>Royal Oak Concept</target>
       </trans-unit>
-      <trans-unit id="375">
+      <trans-unit id="323">
         <source>44mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="376">
+      <trans-unit id="324">
         <source>Hours, minutes, power reserve in units around the barrel circumference at 3 o’clock, function selector via an additional pushpiece at 4 o’clock and function indicator at 6 o’clock, tourbillon at 9 o’clock and dynamograph at 12 o’clock.</source>
         <target>Heures, minutes, réserve de marche en unité par tour de barillet à 3h, sélecteur de fonction par poussoir supplémentaire à 4h et indicateur de fonctions à 6h, tourbillon à 9h et dynamographe à 12h.</target>
       </trans-unit>
-      <trans-unit id="377">
+      <trans-unit id="325">
         <source>Case-middle and caseback in 602 alacrite, bezel in titanium</source>
         <target>Carrure et fond en alacrite 602, lunette en titane, fond gravé</target>
       </trans-unit>
-      <trans-unit id="378">
+      <trans-unit id="326">
         <source>Dial composed of the mainplate, inner bezel ring with minute track and hour-markers</source>
         <target>Cadran composé de la platine, rehaut avec minuterie et index des heures</target>
       </trans-unit>
-      <trans-unit id="379">
+      <trans-unit id="327">
         <source>Kevlar® strap</source>
         <target>Bracelet Kevlar®</target>
       </trans-unit>
-      <trans-unit id="380">
+      <trans-unit id="328">
         <source>Hand-wound calibre 2896</source>
         <target>Calibre 2896 à remontage automatique</target>
       </trans-unit>
-      <trans-unit id="381">
+      <trans-unit id="329">
         <source>The First Ever Forged Carbon Case</source>
         <target>La toute première boîte en carbone forgé</target>
       </trans-unit>
-      <trans-unit id="382">
+      <trans-unit id="330">
         <source>Symbolizing the brand’s partnership with Team Alinghi in the America’s Cup, this was the first ever watch with a case made from forged carbon by means of a patented production process stemming from sophisticated research and development. The goal was to use a material similar to the high-tech materials used on modern sailing boats.</source>
         <target>Symbole du partenariat établi avec l’équipe Alinghi dans le cadre de l'America's Cup, c’est la toute première montre à boîte en carbone forgé, matériau high tech utilisé sur les voiliers modernes, qui a nécessité de longs mois de R&amp;D et abouti à un processus de production breveté. Il en résulte une montre ultralégère destinée aux navigateurs.</target>
       </trans-unit>
-      <trans-unit id="383">
+      <trans-unit id="331">
         <source>Selfwinding Calibre 2326/2848</source>
         <target>Calibre 2326/2848 à remontage automatique</target>
       </trans-unit>
-      <trans-unit id="384">
+      <trans-unit id="332">
         <source>Royal Oak Offshore "Alinghi Team"</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="385">
+      <trans-unit id="333">
         <source>44 mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="386">
+      <trans-unit id="334">
         <source>Hours, minutes, small seconds, "flyback" chronograph, 20 minutes and 6 hours counters, regatta 10 minute countdown</source>
         <target>Heures, minutes, petite seconde, chronographe "flyback", compteurs 20 minutes et 6 heures, compte à rebours 10 minutes spécial "régate"</target>
       </trans-unit>
-      <trans-unit id="387">
+      <trans-unit id="335">
         <source>Forged carbon case and bezel, ceramic pushbuttons and crown, caseback stamped with a motif depicting the team in action and engraved with the legend "Royal Oak Offshore Alinghi Team Limited Edition"</source>
         <target>Boite Carbone forgé ,poussoirs et couronne en céramique, fond étampé d'un motif représentant l'équipage en action et gravé de l'inscription "Royal Oak Offshore Alinghi Team Limited Edition"</target>
       </trans-unit>
-      <trans-unit id="388">
+      <trans-unit id="336">
         <source>Black dial with "Méga Tapisserie" pattern, red Alignhi logo, luminescent hour-markers and hands</source>
         <target>Cadran noir avec motif  «MégaTapisserie», logo Alinghi rouge à 3 heures, chiffres et aiguilles luminescents</target>
       </trans-unit>
-      <trans-unit id="389">
+      <trans-unit id="337">
         <source>Vulcanized rubber with integrated case links</source>
         <target>Bracelet caoutchouc vulcanisé avec plots intégrés</target>
       </trans-unit>
-      <trans-unit id="390">
+      <trans-unit id="338">
         <source>Inspired by an Automobile and a Racing Champion</source>
         <target>Inspirée par l'univers automobile et l’un de ses champions</target>
       </trans-unit>
-      <trans-unit id="391">
+      <trans-unit id="339">
         <source>Audemars Piguet's well-established ties with the field of motor sports, and especially its partnership with racing champion Rubens Barrichello, are honored in this chronograph with a dedicated design that includes pushpieces resembling air extractors, pedal-shaped lugs, a high-mech crown and a flange resting on the hour-markers much like a low-slung racing car hugs the ground.</source>
         <target>Audemars Piguet a tissé des liens forts avec les sports automobiles, notamment avec le pilote Rubens Barrichello, dans le cadre d’un partenariat mis à l’honneur dans ce chronographe sportif, équipé de poussoirs imitant des extracteurs d’air, de plots en forme de pédale, d'une couronne en 3 parties évoquant une pièce d’engrenage, d'un joint de lunette céramique rappelant un disque de frein ventilé, de 8 vis semblables à celles d’un moteur et d'une bague de lunette reposant sur les index, évoquant un bolide surbaissé.</target>
       </trans-unit>
-      <trans-unit id="392">
+      <trans-unit id="340">
         <source>Selfwinding Calibre 2326/2840</source>
         <target>Calibre 2326/2840 à remontage automatique</target>
       </trans-unit>
-      <trans-unit id="393">
+      <trans-unit id="341">
         <source>Royal Oak Offshore Rubens Barrichello Chronograph</source>
         <target>Chronographe Royal Oak Offshore Rubens Barrichello</target>
       </trans-unit>
-      <trans-unit id="394">
+      <trans-unit id="342">
         <source>Hours, minutes, small seconds, date, chronograph with sweep seconds hands 30 minute and 12 hours counters, tachometric ring</source>
         <target>Heures, minutes, date, petite seconde, chronographe avec trotteuse au centre, compteur 30 minutes, 12 heures, réhaut tachymètre</target>
       </trans-unit>
-      <trans-unit id="395">
+      <trans-unit id="343">
         <source>Titanium case, ceramic bezel and pushbuttons, 3D wheel-shaped medallion bearing the inscription "Royal Oak Offshore Limited Edition Rubens Barrichello"</source>
         <target>Boite en Titane grade 5, lunette et poussoirs en céramique, Fond médaille 3D en forme de roue portant les mentions "Royal Oak Offshore Limited Edition Rubens Barrichello".</target>
       </trans-unit>
-      <trans-unit id="396">
+      <trans-unit id="344">
         <source>Black dial with "Méga Tapisserie Racing" pattern, counter hands in the colours of the Brazilian flag (green, yellow and blue)</source>
         <target>cadran avec motif "MégaTapisserie" Racing et partiellement ajourés,  aiguilles des compteurs aux couleurs du drapeau brésilien (vert, jaune et bleu)</target>
       </trans-unit>
-      <trans-unit id="397">
+      <trans-unit id="345">
         <source>Black "Anfibio" leather strap with titanium AP folding clasp</source>
         <target>Bracelet en cuir «anfibio» noir avec boucle déployante AP en titane</target>
       </trans-unit>
-      <trans-unit id="398">
+      <trans-unit id="346">
         <source>An Evolved Equation of Time</source>
         <target>Évolution de l’Équation du temps</target>
       </trans-unit>
-      <trans-unit id="399">
+      <trans-unit id="347">
         <source>Ten years after releasing the first Equation of Time watch, Audemars Piguet presented this exceptional timepiece combining four celestial high complications: a perpetual calendar, a precision display of the lunar cycle, the equation of time (which displays the difference between “true” solar time and conventional time), and civil sunrise and sunset times.</source>
         <target>Dix ans après le lancement de la première Équation du Temps, Audemars Piguet présente ce garde-temps exceptionnel combinant 4 complications de haut vol : un calendrier perpétuel, un affichage précis du cycle lunaire, l'équation du temps, et les heures réelles du lever et du coucher du soleil.</target>
       </trans-unit>
-      <trans-unit id="400">
+      <trans-unit id="348">
         <source>Selfwinding Calibre 2120/2808</source>
         <target>Calibre manufacture 2120/2808 à remontage automatique</target>
       </trans-unit>
-      <trans-unit id="401">
+      <trans-unit id="349">
         <source>Royal Oak Equation of Time</source>
         <target>Royal Oak Équation du Temps</target>
       </trans-unit>
-      <trans-unit id="402">
+      <trans-unit id="350">
         <source>Hours, minutes, sunrise and sunset times, equation of time, perpetual calendar, astronomical moon, </source>
         <target>Heures de lever et de coucher du soleil, équation du temps, quantième perpétuel, lune astronomique, heures, minutes</target>
       </trans-unit>
-      <trans-unit id="403">
+      <trans-unit id="351">
         <source>18-carat pink gold case, Glareproofed sapphire crystal and casbeack, screw-locked crown</source>
         <target>Boîte en or rose 18 carats, Glace et fond saphir avec traitement anti-reflets, couronne vissée, étanche à 20 m</target>
       </trans-unit>
-      <trans-unit id="404">
+      <trans-unit id="352">
         <source>Silvered dial with "Grande Tapisserie" pattern, gold applied hour-markers with luminescent coating, gold Royal Oak hands with luminescent coating</source>
         <target>Cadran argenté, avec motif "Grande Tapisserie", index appliques et aiguilles Royal Oak en or avec dépôt luminescent</target>
       </trans-unit>
-      <trans-unit id="405">
+      <trans-unit id="353">
         <source>Brown strap, hand-stitched "large square scale" crocodile with 18-carat pink gold AP folding clasp</source>
         <target>Bracelet brun, cousu main en crocodile à «grande écaille carrée» avec boucle déployante AP en or rose 18 carats</target>
       </trans-unit>
-      <trans-unit id="406">
+      <trans-unit id="354">
         <source>Selfwinding Manufacture Calibre 2120/2808</source>
         <target>Calibre manufacture 2120/2808 à remontage automatique</target>
       </trans-unit>
-      <trans-unit id="407">
+      <trans-unit id="355">
         <source>A Reflection of Light, Dedicated to Diamonds</source>
         <target>Une réflexion de la lumière, entièrement dédiée aux diamants</target>
       </trans-unit>
-      <trans-unit id="408">
+      <trans-unit id="356">
         <source>The Royal Oak, dedicated in its entirety to diamonds. To create this watch, the master-jewelers of Le Brassus select only the purest completely colorless diamonds. The lapidaries then craft them one by one, shaping a customized baguette cut while achieving proportions that enable an ideal reflection of the light and impeccable brilliance through 37.76 carats.</source>
         <target>Une Royal Oak entièrement sertie, pour laquelle les maîtres horlogers du Brassus ont sélectionné uniquement les diamants les plus purs, parfaitement incolores. Les lapidaires les taillent ensuite un à un pour obtenir une taille baguette sur mesure et des proportions offrant une réflexion idéale de la lumière et un éclat irréprochable pour un total de 37,76 carats.</target>
       </trans-unit>
-      <trans-unit id="409">
+      <trans-unit id="357">
         <source>Royal Oak Transparency &amp; Purity</source>
         <target>Royal Oak Transparence &amp; Pureté</target>
       </trans-unit>
-      <trans-unit id="410">
+      <trans-unit id="358">
         <source>18-carat white gold case entirely set with diamonds, sapphire crystal, crown set with a rose-cut diamond</source>
         <target>Boîte en or gris 18 carats entièrement sertie de diamants, glace saphir, couronne sertie d’un diamant taille rose</target>
       </trans-unit>
-      <trans-unit id="411">
+      <trans-unit id="359">
         <source>Diamond-paved dial, blackened gold hands</source>
         <target>Cadran pavé de diamants, aiguilles en or noirci</target>
       </trans-unit>
-      <trans-unit id="412">
+      <trans-unit id="360">
         <source>18-carat white gold bracelet entirely set with diamonds with AP folding clasp</source>
         <target>Bracelet en or gris 18 carats, entièrement serti de diamants taille baguette avec fermoir déployant AP</target>
       </trans-unit>
-      <trans-unit id="413">
+      <trans-unit id="361">
         <source>Setting</source>
         <target>Sertissage</target>
       </trans-unit>
-      <trans-unit id="414">
+      <trans-unit id="362">
         <source>444 baguette-cut diamonds, ~32.91 carats (case, bezel, crown, bracelet) - 76 baguette-cut diamonds, ~4.85 carats (dial)</source>
         <target>444 diamants taille baguette, ~32.91 carats (boîte, lunette, couronne et bracelet) - 76 diamants taille baguette, ~4.85 carats (cadran)</target>
       </trans-unit>
-      <trans-unit id="415">
+      <trans-unit id="363">
         <source>Quartz Calibre 2712</source>
         <target>Calibre quartz 2712 </target>
       </trans-unit>
-      <trans-unit id="416">
+      <trans-unit id="364">
         <source>A Reimagined Tribute to the Original</source>
         <target>Un hommage créatif au modèle original</target>
       </trans-unit>
-      <trans-unit id="417">
+      <trans-unit id="365">
         <source>This re-interpretation of the genuine Extra-Thin Royal Oak comes as close as possible to the original with the radiant "Petite Tapisserie" dial motif and the AP logo at 6 o’clock, the distinctive blue color of the dial, and the signature seamlessly integrated Royal Oak bracelet with its perfectly assembled links and studs arranged in progressively diminishing order of size.</source>
         <target>Cette réinterprétation de la Royal Oak extra-plate reprend fidèlement le motif Petite Tapisserie du modèle d'origine, son logo AP, à 6 heures, le bleu si caractéristique de son cadran, qui habille ici le disque de la date, et surtout le bracelet signature Royal Oak à mailles de taille décroissante, parfaitement intégré à la boîte.</target>
       </trans-unit>
-      <trans-unit id="418">
+      <trans-unit id="366">
         <source>Extra-Thin Royal Oak</source>
         <target>Royal Oak Extra-plate</target>
       </trans-unit>
-      <trans-unit id="419">
+      <trans-unit id="367">
         <source>View More</source>
         <target>En Savoir Plus</target>
       </trans-unit>
-      <trans-unit id="420">
+      <trans-unit id="368">
         <source>Setting the Stage for Openworking</source>
         <target>Le mouvement squelette en vedette</target>
       </trans-unit>
-      <trans-unit id="421">
+      <trans-unit id="369">
         <source>The extra-thin selfwinding Caliber 5122 adorned with an anthracite color sets the stage for the openworking that extends right through to its suspended barrel. The meticulous attention to details is expressed by the various surfaces graced with traditional finishes such as polishing, satin brushing, circular satin brushing and hand-drawn file strokes.</source>
         <target>Le cadran gris ardoise de ce modèle permet d’admirer le calibre 5122 à remontage automatique ultra plat, de couleur anthracite, entièrement squeletté, jusqu’à son barillet suspendu. La finition des surfaces a fait l’objet d’une attention au détail sans compromis : polissage, satinage, perlage, cerclage et traits tirés.</target>
       </trans-unit>
-      <trans-unit id="422">
+      <trans-unit id="370">
         <source>Openworked Extra-Thin Royal Oak – 40th Anniversary Limited Edition</source>
         <target>Royal Oak Squelette Extra-plate – édition limitée 40e anniversaire</target>
       </trans-unit>
-      <trans-unit id="423">
+      <trans-unit id="371">
         <source>950 platinum case, glareproofed sapphire crystal and caseback</source>
         <target>Boîte en platine 950, glace et fond saphir avec traitement anti-reflets</target>
       </trans-unit>
-      <trans-unit id="424">
+      <trans-unit id="372">
         <source>Openworked slate grey dial, white gold applied hour-markers and Royal Oak hands with luminescent coating</source>
         <target>Cadran ardoise ajouré, index appliques et aiguilles Royal Oak en or gris avec dépôt luminescent</target>
       </trans-unit>
-      <trans-unit id="425">
+      <trans-unit id="373">
         <source>950 platinum bracelet with AP folding clasp</source>
         <target>Bracelet en platine 950 avec fermoir déployant AP</target>
       </trans-unit>
-      <trans-unit id="426">
+      <trans-unit id="374">
         <source>Selfwinding Manufacture Calibre 5122</source>
         <target>Calibre manufacture 5122 à remontage automatique</target>
       </trans-unit>
-      <trans-unit id="427">
+      <trans-unit id="375">
         <source>Capturing the Aura Surrounding the Royal Oak</source>
         <target>Capturer le prestige auréolant la collection</target>
       </trans-unit>
-      <trans-unit id="428">
+      <trans-unit id="376">
         <source>This 40th anniversary limited edition is in platinum to accentuate the aura surrounding the Royal Oak. It embodies the collection’s powerful aesthetic codes inspired by diving-suit helmets. Its openworked extra-thin hand-wound movement is fitted with the most emblematic of all complex watch mechanisms, the tourbillon, while its back features a 70-hour power-reserve indication.</source>
         <target>Cette édition limitée spéciale 40e anniversaire a été fabriquée en platine pour souligner le prestige qui auréole la collection. Son mouvement squelette extra-plat à remontage manuel est équipé de la complication la plus emblématique, le tourbillon, tandis que le fond de boîte propose une indication de la réserve de marche (70 heures).</target>
       </trans-unit>
-      <trans-unit id="429">
+      <trans-unit id="377">
         <source>Openworked Extra-Thin Royal Oak Tourbillon</source>
         <target>Royal Oak Squelette Extra-plate Tourbillon </target>
       </trans-unit>
-      <trans-unit id="430">
+      <trans-unit id="378">
         <source>41 mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="431">
+      <trans-unit id="379">
         <source>Hours, minutes, power reserve</source>
         <target>Heure, minutes, réserve de marche</target>
       </trans-unit>
-      <trans-unit id="432">
+      <trans-unit id="380">
         <source>Hand-wound Manufacture Calibre 2924</source>
         <target>Calibre manufacture 2924 à remontage manuel</target>
       </trans-unit>
-      <trans-unit id="433">
+      <trans-unit id="381">
         <source>31.5mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="434">
+      <trans-unit id="382">
         <source>Dates &amp;amp; Locations</source>
         <target>Lieux &amp; Dates</target>
       </trans-unit>
-      <trans-unit id="435">
+      <trans-unit id="383">
         <source>Current Exhibition</source>
         <target>Prochaine Exposition</target>
       </trans-unit>
-      <trans-unit id="436">
+      <trans-unit id="384">
         <source>View Map</source>
         <target>Voir le plan</target>
       </trans-unit>
-      <trans-unit id="437">
+      <trans-unit id="385">
         <source>More From The 40th Royal Oak Anniversary</source>
         <target>Pour aller plus loin</target>
       </trans-unit>
-      <trans-unit id="438">
+      <trans-unit id="386">
         <source>Royal Oak</source>
-        <target/>
+        <target></target>
       </trans-unit>
-      <trans-unit id="439">
+      <trans-unit id="387">
         <source>More From THE 40th anniversary</source>
-		<target>Pour aller plus loin</target>
+        <target>Pour aller plus loin</target>
       </trans-unit>
-      <trans-unit id="440">
+      <trans-unit id="388">
         <source>View Details</source>
-		<target>Voir les détails</target>
+        <target>Voir les détails</target>
       </trans-unit>
-	  <trans-unit id="441">
+      <trans-unit id="389">
         <source>of</source>
-		<target>de</target>
+        <target>de</target>
       </trans-unit>
-	  <trans-unit id="442">
+      <trans-unit id="390">
         <source>%WatchNameLadies%</source>
-		<target>%WatchNameLadies% pour femmes</target>
+        <target>%WatchNameLadies% pour femmes</target>
       </trans-unit>
-      <trans-unit id="443">
+      <trans-unit id="391">
         <source>contact us</source>
-		<target>Contactez-nous</target>
+        <target>Contactez-nous</target>
       </trans-unit>
-      <trans-unit id="444">
+      <trans-unit id="392">
         <source>Foundation</source>
         <target>Fondation</target>
       </trans-unit>
-      <trans-unit id="445">
+      <trans-unit id="393">
         <source>Add a new fondation category</source>
         <target>Ajouter une nouvelle catégorie</target>
       </trans-unit>
-      <trans-unit id="446">
+      <trans-unit id="394">
         <source>Add a new project in left column</source>
         <target>Ajouter un nouveau projet dans la colonne de gauche</target>
       </trans-unit>
-      <trans-unit id="447">
+      <trans-unit id="395">
         <source>Add a new project in right column</source>
         <target>Ajouter un nouveau projet dans la colonne de droite</target>
       </trans-unit>
-      <trans-unit id="448">
+      <trans-unit id="396">
         <source>Our partnerships</source>
         <target>Nos partenariats</target>
       </trans-unit>
-      <trans-unit id="449">
+      <trans-unit id="397">
         <source>Our ambassadors</source>
         <target>Nos ambassadeurs</target>
       </trans-unit>
-      <trans-unit id="449">
+      <trans-unit id="398">
         <source>Model Of Choice</source>
         <target>Modèle de prédilection</target>
       </trans-unit>
-      <trans-unit id="450">
+      <trans-unit id="399">
         <source>Learn more</source>
         <target>En savoir plus</target>
       </trans-unit>
-      <trans-unit id="451">
+      <trans-unit id="400">
         <source>Explore</source>
         <target>Explorez</target>
       </trans-unit>
-	  <!-- Start Novelty Page-->
-      <trans-unit id="446">
+      <trans-unit id="401">
         <source>Visit a boutique</source>
         <target>Visite d'une Boutique</target>
       </trans-unit>
-      <trans-unit id="447">
+      <trans-unit id="402">
         <source>You can indulge your fascination with our timepieces at retail locations and at our exclusive boutiques, all over the world.</source>
         <target>Laissez libre cours à votre fascination grâce à notre réseau de points de vente et de boutiques exclusives, implanté dans le monde entier.</target>
       </trans-unit>
-	  <!-- End Novelty Page-->
-      <trans-unit id="452">
+      <trans-unit id="403">
         <source>Availability to be confirmed</source>
         <target>Disponibilité à confirmer.</target>
       </trans-unit>
-	  <trans-unit id="450">
+      <trans-unit id="404">
         <source>Explore Novelties</source>
-        <target>Explorez les nouveautés</target>>
+        <target>Explorez les nouveautés</target>
       </trans-unit>
-      <trans-unit id="451">
+      <trans-unit id="405">
         <source>Availability to be confirmed.</source>
         <target>Disponibilité à confirmer.</target>
       </trans-unit>
-      <trans-unit id="452">
+      <trans-unit id="406">
         <source>Model</source>
         <target>Modèle</target>
       </trans-unit>
-      <trans-unit id="453">
+      <trans-unit id="407">
         <source>Careers</source>
         <target>Carrières</target>
       </trans-unit>
-      <trans-unit id="455">
+      <trans-unit id="408">
         <source>Collection Audemars Piguet</source>
         <target>Collection Audemars Piguet</target>
       </trans-unit>
-      <trans-unit id="456">
+      <trans-unit id="409">
         <source>Discover our models</source>
         <target>Découvrez nos modèles</target>
       </trans-unit>
-      <trans-unit id="457">
+      <trans-unit id="410">
         <source>Ambassadors</source>
         <target>Ambassadeurs</target>
       </trans-unit>
+      
     </body>
   </file>
 </xliff>
+.
+
+  2 tests complete (16 ms)
+

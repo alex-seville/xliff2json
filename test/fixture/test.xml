@@ -4,119 +4,119 @@
   <file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2012-03-05T14:54:29Z" product-name="messages">
     <header/>
     <body>
-      <trans-unit id="2">
+      <trans-unit id="1">
         <source>Where to buy</source>
         <target>Points de vente</target>
       </trans-unit>
-      <trans-unit id="3">
+      <trans-unit id="2">
         <source>Search</source>
         <target>Recherche</target>
       </trans-unit>
-      <trans-unit id="4">
+      <trans-unit id="3">
         <source>search</source>
         <target>rechercher</target>
       </trans-unit>
-      <trans-unit id="5">
+      <trans-unit id="4">
         <source>Collections</source>
         <target>Collections</target>
       </trans-unit>
-      <trans-unit id="6">
+      <trans-unit id="5">
         <source>About</source>
         <target>À Propos</target>
       </trans-unit>
-      <trans-unit id="7">
+      <trans-unit id="6">
         <source>About Us</source>
         <target>À Propos</target>
       </trans-unit>
-      <trans-unit id="8">
+      <trans-unit id="7">
         <source>Articles</source>
         <target>Actualités</target>
       </trans-unit>
-      <trans-unit id="9">
+      <trans-unit id="8">
         <source>Stories &amp;amp; News</source>
         <target>Récits &amp;amp; nouvelles</target>
       </trans-unit>
-      <trans-unit id="10">
+      <trans-unit id="9">
         <source>Service</source>
         <target>Service</target>
       </trans-unit>
-      <trans-unit id="11">
+      <trans-unit id="10">
         <source>Service &amp;amp; Support</source>
         <target>Service &amp;amp; Support</target>
       </trans-unit>
-      <trans-unit id="12">
+      <trans-unit id="11">
         <source>Where to Buy</source>
         <target>Points de vente</target>
       </trans-unit>
-      <trans-unit id="13">
+      <trans-unit id="12">
         <source>More</source>
         <target>Également</target>
       </trans-unit>
-      <trans-unit id="20">
+      <trans-unit id="13">
         <source>Terms of use</source>
         <target>Conditions d'utilisation</target>
       </trans-unit>
-      <trans-unit id="21">
+      <trans-unit id="14">
         <source>2012 Audemars Piguet, Le Brassus since 1875.</source>
         <target>2012 Audemars Piguet, Le Brassus depuis 1875.</target>
       </trans-unit>
-      <trans-unit id="22">
+      <trans-unit id="15">
         <source>Online Catalog</source>
         <target>Catalogue en ligne</target>
       </trans-unit>
-      <trans-unit id="23">
+      <trans-unit id="16">
         <source>Send Me a Catalog</source>
         <target>Recevoir un catalogue</target>
       </trans-unit>
-      <trans-unit id="24">
+      <trans-unit id="17">
         <source>Drag</source>
         <target>Glissez</target>
       </trans-unit>
-      <trans-unit id="25">
+      <trans-unit id="18">
         <source>Explore More Audemars Piguet</source>
         <target>Découvrez l'univers Audemars Piguet</target>
       </trans-unit>
-      <trans-unit id="29">
+      <trans-unit id="19">
         <source>Watch Family Admin</source>
         <target>Administration des familles de montres</target>
       </trans-unit>
-      <trans-unit id="30">
+      <trans-unit id="20">
         <source>ID</source>
         <target>Identifiant</target>
       </trans-unit>
-      <trans-unit id="31">
+      <trans-unit id="21">
         <source>Family Name</source>
         <target>Nom de famille</target>
       </trans-unit>
-      <trans-unit id="32">
+      <trans-unit id="22">
         <source>Categories Admin</source>
         <target>Administration des catégories</target>
       </trans-unit>
-      <trans-unit id="33">
+      <trans-unit id="23">
         <source>Edit Category</source>
         <target>Editer une catégorie</target>
       </trans-unit>
-      <trans-unit id="34">
+      <trans-unit id="24">
         <source>New Category</source>
         <target>Nouvelle catégorie</target>
       </trans-unit>
-      <trans-unit id="35">
+      <trans-unit id="25">
         <source>Active Users</source>
         <target>Utilisateurs actifs</target>
       </trans-unit>
-      <trans-unit id="36">
+      <trans-unit id="26">
         <source>Category</source>
         <target>Catégorie</target>
       </trans-unit>
-      <trans-unit id="37">
+      <trans-unit id="27">
         <source>Media Items</source>
         <target>Eléments média</target>
       </trans-unit>
-      <trans-unit id="38">
+      <trans-unit id="28">
         <source>Watch Collection Admin</source>
         <target>Administration des Collections</target>
       </trans-unit>
-      <trans-unit id="39">
+      <trans-unit id="29">
         <source>Our Collections</source>
         <target>Nos Collections</target>
       </trans-unit>
@@ -242,7 +242,7 @@
       </trans-unit>
       <trans-unit id="78">
         <source>, </source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="79">
         <source>About The Collection</source>
@@ -666,7 +666,7 @@
       </trans-unit>
       <trans-unit id="213">
         <source>_novelties_meta_keywords_</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="214">
         <source>_ladies_page_title_</source>
@@ -678,7 +678,7 @@
       </trans-unit>
       <trans-unit id="216">
         <source>_ladies_meta_keywords_</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="217">
         <source>Choose Video thumbnail Image</source>
@@ -746,19 +746,19 @@
       </trans-unit>
       <trans-unit id="234">
         <source>Read stories about </source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="235">
         <source>New file: </source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="236">
         <source>About The Collection</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="237">
         <source>Mens Collection</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="238">
         <source>Also in Mens</source>
@@ -766,19 +766,19 @@
       </trans-unit>
       <trans-unit id="239">
         <source>View Larger</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="240">
         <source>Audemars Pigeut boutique in Geneva, Switzerland</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="241">
         <source>Specifications</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="242">
         <source>Cadence of the balance [ vibrations/hour ]</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="243">
         <source>Terms of use of the Audemars Piguet website</source>
@@ -826,7 +826,7 @@
       </trans-unit>
       <trans-unit id="254">
         <source>Old Tyme Logo</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="255">
         <source>{ fig. 1} Original Audemars Piguet logo from 1922.</source>
@@ -834,15 +834,15 @@
       </trans-unit>
       <trans-unit id="256">
         <source>This page has children that will also be deleted. </source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="257">
         <source>Home</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="258">
         <source>There do not seem to be any retailers in the location you have picked. That is pretty weird because we really carefully crafted this to not show options where there are no venodrs. So congrats. You broke our toy.</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="259">
         <source>Our Savoir-Faire</source>
@@ -850,7 +850,7 @@
       </trans-unit>
       <trans-unit id="260">
         <source>Loading Results...</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="261">
         <source>submit</source>
@@ -862,7 +862,7 @@
       </trans-unit>
       <trans-unit id="263">
         <source>Base movement thickness</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="264">
         <source>Movement thickness with module</source>
@@ -874,7 +874,7 @@
       </trans-unit>
       <trans-unit id="266">
         <source>lignes</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="267">
         <source>Frequency of balance wheel</source>
@@ -903,7 +903,7 @@ Nous vous invitons à continuer votre visite en vous aidant des liens ci-dessous
       </trans-unit>
       <trans-unit id="273">
         <source>Functions</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="274">
         <source>specificities</source>
@@ -911,15 +911,15 @@ Nous vous invitons à continuer votre visite en vous aidant des liens ci-dessous
       </trans-unit>
       <trans-unit id="275">
         <source>_404_page_title_</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="276">
         <source>_404_meta_desc_</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="277">
         <source>_404_meta_keywords_</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="278">
         <source>Case Width</source>
@@ -931,19 +931,19 @@ Nous vous invitons à continuer votre visite en vous aidant des liens ci-dessous
       </trans-unit>
       <trans-unit id="280">
         <source>Ladies Collection </source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="281">
         <source>Audemars Piguet &amp;amp; Cie Sa</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="282">
         <source>Audemars Piguet Customer Service</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="283">
         <source>Often imitated, never equaled, the Royal Oak was the first watch to be defined not just by technical content and material, but also by aesthetic appeal. Celebrate its 40th anniversary.</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="284">
         <source>Current Exhibition:</source>
@@ -951,11 +951,11 @@ Nous vous invitons à continuer votre visite en vous aidant des liens ci-dessous
       </trans-unit>
       <trans-unit id="285">
         <source>Edit Venue</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="286">
         <source>Edit Dates</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="287">
         <source>From Avant-Garde to Icon</source>
@@ -1027,15 +1027,15 @@ Nous vous invitons à continuer votre visite en vous aidant des liens ci-dessous
       </trans-unit>
       <trans-unit id="304">
         <source>38.8 mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="305">
         <source>11.00 mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="306">
         <source>50 m</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="307">
         <source>Function</source>
@@ -1059,7 +1059,7 @@ Nous vous invitons à continuer votre visite en vous aidant des liens ci-dessous
       </trans-unit>
       <trans-unit id="312">
         <source>Type</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="313">
         <source>Selfwinding Calibre 2121</source>
@@ -1071,7 +1071,7 @@ Nous vous invitons à continuer votre visite en vous aidant des liens ci-dessous
       </trans-unit>
       <trans-unit id="315">
         <source>28.40mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="316">
         <source>The World’s Thinnest Model of Its Kind</source>
@@ -1087,7 +1087,7 @@ Nous vous invitons à continuer votre visite en vous aidant des liens ci-dessous
       </trans-unit>
       <trans-unit id="319">
         <source>39 mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="320">
         <source>Hours, minutes, Perpetual calendar with day, date, moon phases, months</source>
@@ -1103,7 +1103,7 @@ Nous vous invitons à continuer votre visite en vous aidant des liens ci-dessous
       </trans-unit>
       <trans-unit id="323">
         <source>28.4mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="324">
         <source>Day and Date, Powered Like Never Before</source>
@@ -1119,11 +1119,11 @@ Nous vous invitons à continuer votre visite en vous aidant des liens ci-dessous
       </trans-unit>
       <trans-unit id="327">
         <source>Royal Oak Day Date</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="328">
         <source>36 mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="329">
         <source>Hours, minutes, days of the week, pointer-type simple calendar display and moon phases</source>
@@ -1135,7 +1135,7 @@ Nous vous invitons à continuer votre visite en vous aidant des liens ci-dessous
       </trans-unit>
       <trans-unit id="331">
         <source>26.6mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="332">
         <source>Elegant, Unassuming, the World’s First Tantalum Case</source>
@@ -1151,11 +1151,11 @@ Nous vous invitons à continuer votre visite en vous aidant des liens ci-dessous
       </trans-unit>
       <trans-unit id="335">
         <source>Royal Oak Quartz</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="336">
         <source>33 mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="337">
         <source>Hours, minutes, date</source>
@@ -1175,7 +1175,7 @@ Nous vous invitons à continuer votre visite en vous aidant des liens ci-dessous
       </trans-unit>
       <trans-unit id="341">
         <source>21.1mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="342">
         <source>Flying in the Face of Convention</source>
@@ -1187,11 +1187,11 @@ Nous vous invitons à continuer votre visite en vous aidant des liens ci-dessous
       </trans-unit>
       <trans-unit id="344">
         <source>Royal Oak Offshore Chronograph</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="345">
         <source>42 mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="346">
         <source>Hours, minutes, small seconds, chronograph, date</source>
@@ -1207,7 +1207,7 @@ Nous vous invitons à continuer votre visite en vous aidant des liens ci-dessous
       </trans-unit>
       <trans-unit id="349">
         <source>29.9mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="350">
         <source>The Original Platinum-Iridium Selfwinding System</source>
@@ -1223,11 +1223,11 @@ Nous vous invitons à continuer votre visite en vous aidant des liens ci-dessous
       </trans-unit>
       <trans-unit id="353">
         <source>Royal Oak Tourbillon</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="354">
         <source>40 mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="355">
         <source>Hours, minutes at 12 o’clock, pointer-type date display at 3 o’clock, tourbillon at 6 o’clock, power reserve at 9 o’clock.</source>
@@ -1251,7 +1251,7 @@ Nous vous invitons à continuer votre visite en vous aidant des liens ci-dessous
       </trans-unit>
       <trans-unit id="360">
         <source>32.6mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="361">
         <source>Hundreds of Intricacies, Months in the Making</source>
@@ -1267,11 +1267,11 @@ Nous vous invitons à continuer votre visite en vous aidant des liens ci-dessous
       </trans-unit>
       <trans-unit id="364">
         <source>Royal Oak Grande Complication</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="365">
         <source>43.5 mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="366">
         <source>Hours, minutes, small seconds, split-second chronograph 30-minute counter, perpetual calendar indicating the date at 9 o’clock, the day at 3 o’clock and the leap years at 6 o’clock, as well as the 52 weeks and moon phases at 12 o’clock</source>
@@ -1291,7 +1291,7 @@ Nous vous invitons à continuer votre visite en vous aidant des liens ci-dessous
       </trans-unit>
       <trans-unit id="370">
         <source>31.6mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="371">
         <source>The Perfect Blend of Performance and Sophistication</source>
@@ -1311,7 +1311,7 @@ Nous vous invitons à continuer votre visite en vous aidant des liens ci-dessous
       </trans-unit>
       <trans-unit id="375">
         <source>44mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="376">
         <source>Hours, minutes, power reserve in units around the barrel circumference at 3 o’clock, function selector via an additional pushpiece at 4 o’clock and function indicator at 6 o’clock, tourbillon at 9 o’clock and dynamograph at 12 o’clock.</source>
@@ -1347,11 +1347,11 @@ Nous vous invitons à continuer votre visite en vous aidant des liens ci-dessous
       </trans-unit>
       <trans-unit id="384">
         <source>Royal Oak Offshore "Alinghi Team"</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="385">
         <source>44 mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="386">
         <source>Hours, minutes, small seconds, "flyback" chronograph, 20 minutes and 6 hours counters, regatta 10 minute countdown</source>
@@ -1531,7 +1531,7 @@ Nous vous invitons à continuer votre visite en vous aidant des liens ci-dessous
       </trans-unit>
       <trans-unit id="430">
         <source>41 mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="431">
         <source>Hours, minutes, power reserve</source>
@@ -1543,7 +1543,7 @@ Nous vous invitons à continuer votre visite en vous aidant des liens ci-dessous
       </trans-unit>
       <trans-unit id="433">
         <source>31.5mm</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="434">
         <source>Dates &amp;amp; Locations</source>
@@ -1563,7 +1563,7 @@ Nous vous invitons à continuer votre visite en vous aidant des liens ci-dessous
       </trans-unit>
       <trans-unit id="438">
         <source>Royal Oak</source>
-        <target/>
+        <target></target>
       </trans-unit>
       <trans-unit id="439">
         <source>More From THE 40th anniversary</source>
@@ -1621,7 +1621,6 @@ Nous vous invitons à continuer votre visite en vous aidant des liens ci-dessous
         <source>Explore</source>
         <target>Explorez</target>
       </trans-unit>
-	  <!-- Start Novelty Page-->
       <trans-unit id="446">
         <source>Visit a boutique</source>
         <target>Visite d'une Boutique</target>
@@ -1630,14 +1629,13 @@ Nous vous invitons à continuer votre visite en vous aidant des liens ci-dessous
         <source>You can indulge your fascination with our timepieces at retail locations and at our exclusive boutiques, all over the world.</source>
         <target>Laissez libre cours à votre fascination grâce à notre réseau de points de vente et de boutiques exclusives, implanté dans le monde entier.</target>
       </trans-unit>
-	  <!-- End Novelty Page-->
       <trans-unit id="452">
         <source>Availability to be confirmed</source>
         <target>Disponibilité à confirmer.</target>
       </trans-unit>
 	  <trans-unit id="450">
         <source>Explore Novelties</source>
-        <target>Explorez les nouveautés</target>>
+        <target>Explorez les nouveautés</target>
       </trans-unit>
       <trans-unit id="451">
         <source>Availability to be confirmed.</source>

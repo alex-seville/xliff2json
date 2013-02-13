@@ -3,36 +3,46 @@ var assert = require("assert"),
 
 var xliff2json = require("../lib/index");
 
+function normalizeWhitespace(str) {
+  return str.replace(/\r\n/g, '\n')
+            .replace(/\r/g, '\n')
+            .replace(/\s+\n/g, '\n')
+            .replace(/\n\s+/g, '\n');
+}
+
 var x1 = new xliff2json();
-var x2 = new xliff2json({cleanJSON:true});
+var x2 = new xliff2json({
+    cleanJSON:true,
+    decorateJSON:true
+  });
 
-var input = fs.readFileSync("test/fixture/test.xml",'utf8');
-var output = fs.readFileSync("test/fixture/test.json",'utf8');
-var outputClean = fs.readFileSync("test/fixture/test_clean.json",'utf8');
+var input = fs.readFileSync("test/fixture/test_less.xml",'utf8');
+var inOdd= fs.readFileSync("test/fixture/oddities.xml",'utf8');
+var outOdd= fs.readFileSync("test/fixture/oddities_out.xml",'utf8');
 
-var inputJSON = fs.readFileSync("test/fixture/test2.json",'utf8');
-var outputJSON = fs.readFileSync("test/fixture/test2.xml",'utf8');
-
-describe('XliffToJSON', function(){
-  it('it should return json', function(done){
-    x1.parseXliff(input,function(json){
-       assert(json,output);
-       done();
+describe('Round trip', function(){
+    it('just to xliff', function(done){
+      x1.parseXliff(input,function(xliffJson){
+        x1.parseJSON(xliffJson,function(output){
+          assert.equal(normalizeWhitespace(output),normalizeWhitespace(input));
+          done();
+        });
+      });
     });
-  });
-   it('it should return clean json', function(done){
+    it('to json', function(done){
       x2.parseXliff(input,function(json){
-        assert(json,outputClean);
-        done();
+         x2.parseJSON(json,function(output){
+           assert.equal(normalizeWhitespace(output),normalizeWhitespace(input));
+           done();
+         });
       });
-  });
-});
-
-describe('JSONToXliff', function(){
-  it('it should return xml', function(done){
-     x1.parseJSON(JSON.parse(inputJSON),function(xliff){
-        assert(xliff,outputJSON);
-        done();
+    });
+    it('oddities to xliff', function(done){
+      x1.parseXliff(inOdd,function(xliffJson){
+        x1.parseJSON(xliffJson,function(output){
+          assert.equal(normalizeWhitespace(output),normalizeWhitespace(outOdd));
+          done();
+        });
       });
-  });
+    });
 });
